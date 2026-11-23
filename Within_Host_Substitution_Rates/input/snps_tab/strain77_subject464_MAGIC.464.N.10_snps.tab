@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	56818	snp	T	C	C:163 T:0	CDS	-	555/2706	185/901	synonymous_variant c.555A>G p.Leu185Leu	MAGIC.464.N.8_02570	acnA	aconitate hydratase AcnA
+contig_8	730	snp	G	A	A:167 G:0	CDS	-	1060/1239	354/412	missense_variant c.1060C>T p.His354Tyr	MAGIC.464.N.8_09325	bppU	BppU family phage baseplate upper protein
+contig_18	19414	snp	G	A	A:184 G:2	CDS	+	201/573	67/190	synonymous_variant c.201G>A p.Leu67Leu	MAGIC.464.N.8_13545	pth	aminoacyl-tRNA hydrolase

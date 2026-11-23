@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	225394	snp	A	T	T:28 A:0	CDS	+	732/1083	244/360	synonymous_variant c.732A>T p.Ile244Ile	MAGIC.558.N.5_03685	dppD	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+contig_2	289316	snp	G	T	T:27 G:0	CDS	-	941/1011	314/336	missense_variant c.941C>A p.Thr314Lys	MAGIC.558.N.5_04025	nolL	Fucose 4-O-acetylase or related acetyltransferase
+contig_3	205328	snp	A	T	T:40 A:1	CDS	-	815/1170	272/389	missense_variant c.815T>A p.Phe272Tyr	MAGIC.558.N.5_05935	tarF	teichoic acid glycerol-phosphate transferase TarF
+contig_5	144537	snp	A	C	C:35 A:0	CDS	-	2103/3552	701/1183	missense_variant c.2103T>G p.Asp701Glu	MAGIC.558.N.5_08420	rpoB	DNA-directed RNA polymerase subunit beta

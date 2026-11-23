@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	297297	snp	A	C	C:27 A:0	CDS	-	572/663	191/220	missense_variant c.572T>G p.Phe191Cys	MAGIC.542.N.6_01385	deoC	deoxyribose-phosphate aldolase
+contig_1	492018	snp	G	A	A:76 G:0								
+contig_2	778662	snp	C	T	T:64 C:0	CDS	-	473/507	158/168	missense_variant c.473G>A p.Arg158His	MAGIC.542.N.6_08395		Cytosolic protein
+contig_2	848412	snp	A	G	G:36 A:0								

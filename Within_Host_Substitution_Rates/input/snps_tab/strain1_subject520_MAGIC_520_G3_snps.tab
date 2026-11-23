@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	187943	snp	C	T	T:42 C:0								
+contig_40	62	snp	G	T	T:10 G:2								
+contig_40	75	snp	G	T	T:11 G:2								

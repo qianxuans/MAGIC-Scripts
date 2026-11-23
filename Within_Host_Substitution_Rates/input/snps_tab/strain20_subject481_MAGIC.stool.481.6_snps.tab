@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	74479	snp	T	C	C:152 T:0	CDS	-	324/1269	108/422	synonymous_variant c.324A>G p.Ser108Ser	MAGIC.stool.481.12_00375	pbuX	Xanthine/uracil permease
+contig_1	288288	snp	G	A	A:157 G:0	CDS	-	25/897	9/298	missense_variant c.25C>T p.Arg9Cys	MAGIC.stool.481.12_01385	murQ	N-acetylmuramic acid 6-phosphate etherase
+contig_5	48023	snp	T	A	A:133 T:0	CDS	-	13/669	5/222	missense_variant c.13A>T p.Ile5Leu	MAGIC.stool.481.12_06570	yggS	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family

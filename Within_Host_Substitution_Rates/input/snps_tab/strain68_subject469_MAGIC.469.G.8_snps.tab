@@ -1,0 +1,6 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	719691	snp	A	C	C:134 A:0								
+contig_2	297036	snp	G	A	A:166 G:0	CDS	+	1640/2238	547/745	missense_variant c.1640G>A p.Gly547Asp	MAGIC.7.469.G_04890	xynB	Uncharacterized HTH-type transcriptional regulator SA0097
+contig_2	431520	snp	C	T	T:164 C:0	CDS	+	547/579	183/192	missense_variant c.547C>T p.Pro183Ser	MAGIC.7.469.G_05445	nlpD	Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain
+contig_10	32187	snp	A	C	C:131 A:0								
+contig_11	7923	snp	C	T	T:165 C:0	CDS	+	542/1974	181/657	missense_variant c.542C>T p.Ser181Leu	MAGIC.7.469.G_13050	metG	methionine--tRNA ligase

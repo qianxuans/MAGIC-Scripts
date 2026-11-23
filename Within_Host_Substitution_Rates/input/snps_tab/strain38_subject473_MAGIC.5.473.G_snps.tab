@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	479617	del	ATGT	A	A:133 ATGT:0	CDS	-	5164/6549	1721/2182	disruptive_inframe_deletion c.5162_5164delACA p.Asn1721del	MAGIC.5.473.N_02135	sasC	LPXTG-anchored repetitive surface protein SasC
+contig_9	272	snp	G	T	T:194 G:1								
+contig_15	36078	snp	G	C	C:221 G:0	CDS	+	187/330	63/109	missense_variant c.187G>C p.Ala63Pro	MAGIC.5.473.N_10375	azlD2	Branched-chain amino acid transport protein

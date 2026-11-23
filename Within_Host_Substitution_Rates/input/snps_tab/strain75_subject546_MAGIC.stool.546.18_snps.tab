@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	80537	snp	G	A	A:258 G:2	CDS	+	1815/1956	605/651	synonymous_variant c.1815G>A p.Thr605Thr	MAGIC.546.G.2_00400	bglG	Transcriptional antiterminator
+contig_20	8839	snp	C	T	T:208 C:0	CDS	+	1637/2457	546/818	missense_variant c.1637C>T p.Pro546Leu	MAGIC.546.G.2_11245	clpC	ATP-dependent Clp protease ATP-binding subunit ClpC
+contig_65	146	complex	CGTTCAAGG	TCTATCGGA	TCTATCGGA:10 CGTTCAAGG:0								

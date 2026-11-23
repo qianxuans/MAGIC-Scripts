@@ -1,0 +1,7 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	369965	snp	G	A	A:196 G:0	CDS	+	946/1530	316/509	missense_variant c.946G>A p.Gly316Ser	MAGIC.464.N.8_01605	aur	zinc metalloproteinase aureolysin
+contig_2	306079	del	TA	T	T:115 TA:0								
+contig_3	136534	snp	C	T	T:147 C:0								
+contig_6	78955	snp	T	C	C:189 T:0	CDS	+	420/693	140/230	synonymous_variant c.420T>C p.Asp140Asp	MAGIC.464.N.8_08025	bioW	6-carboxyhexanoate--CoA ligase
+contig_7	144280	ins	A	ACTTT	ACTTT:79 A:7								
+contig_9	49256	snp	A	G	G:179 A:0	CDS	+	721/1155	241/384	missense_variant c.721A>G p.Ile241Val	MAGIC.464.N.8_10395	caiA	Acyl-CoA dehydrogenase related to the alkylation response protein AidB

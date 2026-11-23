@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	179330	snp	C	T	T:165 C:0	CDS	-	422/459	141/152	missense_variant c.422G>A p.Arg141Gln	MAGIC.stool.481.12_00945	essA	type VII secretion system protein EssA, monotopic membrane protein
+contig_5	48023	snp	T	A	A:186 T:0	CDS	-	13/669	5/222	missense_variant c.13A>T p.Ile5Leu	MAGIC.stool.481.12_06570	yggS	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family
+contig_8	88580	snp	G	A	A:183 G:0	CDS	+	211/1224	71/407	missense_variant c.211G>A p.Gly71Ser	MAGIC.stool.481.12_09575	dapE	putative succinyl-diaminopimelate desuccinylase
+contig_12	6375	snp	C	T	T:171 C:1	CDS	+	511/729	171/242	missense_variant c.511C>T p.Pro171Ser	MAGIC.stool.481.12_11410	ehuA	ABC-type polar amino acid transport system, ATPase component

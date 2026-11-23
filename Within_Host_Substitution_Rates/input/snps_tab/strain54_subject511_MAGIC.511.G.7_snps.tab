@@ -1,0 +1,11 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	558777	snp	G	A	A:151 G:0	CDS	-	589/1101	197/366	missense_variant c.589C>T p.Pro197Ser	MAGIC.511.N.6_06285	yqeH	ribosome biogenesis GTPase YqeH
+contig_3	7192	snp	T	C	C:124 T:0	CDS	+	656/1011	219/336	missense_variant c.656T>C p.Ile219Thr	MAGIC.511.N.6_06845	mcsB	protein arginine kinase
+contig_3	75129	snp	T	A	A:147 T:0	CDS	+	21/237	7/78	missense_variant c.21T>A p.Asp7Glu	MAGIC.511.N.6_07110		hypothetical protein
+contig_3	175167	snp	A	C	C:103 A:0	CDS	-	477/690	159/229	missense_variant c.477T>G p.Asn159Lys	MAGIC.511.N.6_07645		Uncharacterized membrane-anchored protein
+contig_3	388658	snp	G	A	A:161 G:0	CDS	+	1761/2610	587/869	synonymous_variant c.1761G>A p.Ala587Ala	MAGIC.511.N.6_08695	clpB	ATP-dependent chaperone ClpB
+contig_4	29472	snp	A	C	C:154 A:0	CDS	-	653/2106	218/701	missense_variant c.653T>G p.Val218Gly	MAGIC.511.N.6_09050	rsp	AraC family transcriptional regulator Rsp
+contig_4	57911	snp	C	T	T:129 C:0	CDS	-	237/552	79/183	synonymous_variant c.237G>A p.Gln79Gln	MAGIC.511.N.6_09175	acrR	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA
+contig_4	168164	snp	C	T	T:145 C:0	CDS	+	71/537	24/178	missense_variant c.71C>T p.Ala24Val	MAGIC.511.N.6_09800	rplF	50S ribosomal protein L6
+contig_7	6354	snp	A	G	G:142 A:2	CDS	-	656/1125	219/374	missense_variant c.656T>C p.Val219Ala	MAGIC.511.N.6_12195	ydbT	Uncharacterized membrane YdbT, contains bPH2 (bacterial pleckstrin-like proteiny) domain
+contig_7	71444	snp	T	C	C:151 T:0	CDS	-	200/444	67/147	missense_variant c.200A>G p.Glu67Gly	MAGIC.511.N.6_12525	dps	DNA-binding ferritin-like protein (oxidative damage protectant)

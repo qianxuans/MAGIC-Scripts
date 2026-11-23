@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	81406	snp	A	G	G:108 A:0								
+contig_71	126	del	CAACA	C	C:13 CAACA:0								
+contig_71	136	complex	A	GGTCC	GGTCC:13 A:0								
+contig_114	66	complex	T	GGACC	GGACC:12 T:0								

@@ -1,0 +1,18 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_10	5371	snp	C	G	G:16 C:0	CDS	+	1720/2610	574/869	missense_variant c.1720C>G p.Leu574Val	MAGIC_606_G11_01130	clpB	ATP-dependent chaperone ClpB
+contig_61	1012	snp	C	T	T:11 C:0	CDS	-	39/117	13/38	synonymous_variant c.39G>A p.Leu13Leu	MAGIC_606_G11_03675		hypothetical protein
+contig_125	2909	snp	C	A	A:13 C:1	CDS	+	248/435	83/144	missense_variant c.248C>A p.Ala83Glu	MAGIC_606_G11_05860	yutE	Uncharacterized HEPN domain protein YutE, UPF0331/DUF86 family
+contig_125	2927	snp	G	A	A:12 G:0	CDS	+	266/435	89/144	missense_variant c.266G>A p.Gly89Asp	MAGIC_606_G11_05860	yutE	Uncharacterized HEPN domain protein YutE, UPF0331/DUF86 family
+contig_125	2974	snp	A	G	G:11 A:1	CDS	+	313/435	105/144	missense_variant c.313A>G p.Ile105Val	MAGIC_606_G11_05860	yutE	Uncharacterized HEPN domain protein YutE, UPF0331/DUF86 family
+contig_160	4635	snp	G	T	T:9 G:1	CDS	+	1555/1599	519/532	missense_variant c.1555G>T p.Ala519Ser	MAGIC_606_G11_06745	acs	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase
+contig_163	468	ins	A	AT	AT:16 A:0	CDS	-	711/780	237/259	frameshift_variant c.711dupA p.Tyr238fs	MAGIC_606_G11_06810	agrA	Accessory gene regulator protein A
+contig_232	3560	snp	C	T	T:13 C:1	CDS	+	849/1113	283/370	synonymous_variant c.849C>T p.Tyr283Tyr	MAGIC_606_G11_08215	comP	Signal transduction histidine kinase ComP
+contig_275	3044	snp	G	A	A:10 G:1								
+contig_300	58	snp	C	T	T:10 C:0	CDS	+	24/516	8/171	synonymous_variant c.24C>T p.Ala8Ala	MAGIC_606_G11_09315		hypothetical protein
+contig_343	1566	snp	G	A	A:10 G:0	CDS	+	774/810	258/269	synonymous_variant c.774G>A p.Val258Val	MAGIC_606_G11_09825	nadK	NAD kinase
+contig_386	1755	complex	GGCA	AGCC	AGCC:17 GGCA:1								
+contig_386	1794	snp	G	A	A:15 G:1								
+contig_540	1202	snp	T	C	C:17 T:1								
+contig_540	1217	snp	G	A	A:19 G:1								
+contig_540	1241	snp	T	A	A:19 T:2								
+contig_554	1025	snp	T	A	A:11 T:0								

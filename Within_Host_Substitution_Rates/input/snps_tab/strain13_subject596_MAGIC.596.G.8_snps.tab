@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	291550	snp	C	G	G:68 C:0	CDS	-	534/1545	178/514	missense_variant c.534G>C p.Trp178Cys	MAGIC.596.N.3_05670		DNA-binding protein
+contig_2	331868	snp	C	T	T:35 C:0	CDS	-	1301/1398	434/465	missense_variant c.1301G>A p.Ser434Asn	MAGIC.596.N.3_05850	norG	HTH-type transcriptional regulator NorG
+contig_3	171371	snp	C	T	T:30 C:0								
+contig_4	183242	snp	C	T	T:62 C:1	CDS	+	695/921	232/306	missense_variant c.695C>T p.Ala232Val	MAGIC.596.N.3_09425	rnz	ribonuclease Z
+contig_5	187009	snp	G	A	A:72 G:1	CDS	+	1321/1689	441/562	missense_variant c.1321G>A p.Gly441Arg	MAGIC.596.N.3_10910	ilvD	dihydroxy-acid dehydratase
+contig_52	73	complex	CACCTTAATC	GCGTGGATGG	GCGTGGATGG:25 CACCTTAATC:0								
+contig_54	68	complex	TCTATCCT	CATTGGTC	CATTGGTC:141 TCTATCCT:0								

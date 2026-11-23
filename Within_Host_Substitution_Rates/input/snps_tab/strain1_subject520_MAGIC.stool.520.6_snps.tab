@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_5	112812	del	TA	T	T:32 TA:0	CDS	+	712/717	238/238	frameshift_variant c.712delA p.Ile238fs	MAGIC.520.G.5_10300	agrA	Accessory gene regulator protein A
+contig_12	24823	snp	A	G	G:44 A:0	CDS	-	644/825	215/274	missense_variant c.644T>C p.Val215Ala	MAGIC.520.G.5_12900	purR	pur operon repressor
+contig_40	112	snp	T	G	G:155 T:1								
+contig_51	141	complex	TCACACCGA	CAAGTTCAT	CAAGTTCAT:17 TCACACCGA:0								

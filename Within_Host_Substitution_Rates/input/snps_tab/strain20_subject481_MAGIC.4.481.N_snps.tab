@@ -1,0 +1,3 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_3	117832	snp	T	C	C:204 T:2								
+contig_5	48023	snp	T	A	A:191 T:1	CDS	-	13/669	5/222	missense_variant c.13A>T p.Ile5Leu	MAGIC.stool.481.12_06570	yggS	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family

@@ -1,0 +1,24 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	169748	snp	A	G	G:202 A:0	CDS	+	997/1224	333/407	missense_variant c.997A>G p.Thr333Ala	MAGIC.stool.463.12_00965	thiI	putative tRNA sulfurtransferase
+contig_1	170504	snp	G	A	A:239 G:0	CDS	+	486/771	162/256	missense_variant c.486G>A p.Met162Ile	MAGIC.stool.463.12_00970	tauE	Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family
+contig_2	84111	snp	G	A	A:198 G:0	CDS	-	918/1530	306/509	synonymous_variant c.918C>T p.Val306Val	MAGIC.stool.463.12_02770	aur	zinc metalloproteinase aureolysin
+contig_2	123471	del	CT	C	C:164 CT:0	CDS	-	136/561	46/186	frameshift_variant c.136delA p.Ser46fs	MAGIC.stool.463.12_02920	icaR	ica operon transcriptional regulator IcaR
+contig_2	154088	snp	G	T	T:190 G:0								
+contig_3	155891	snp	C	A	A:172 C:0	CDS	+	1463/1506	488/501	missense_variant c.1463C>A p.Ala488Glu	MAGIC.stool.463.12_04095	pTR2	Dipeptide/tripeptide permease
+contig_4	80833	snp	G	A	A:180 G:0	CDS	+	622/1524	208/507	missense_variant c.622G>A p.Val208Ile	MAGIC.stool.463.12_04770	ahpF	alkyl hydroperoxide reductase subunit F
+contig_5	4810	snp	A	G	G:182 A:0								
+contig_5	58430	snp	T	C	C:195 T:0	CDS	+	362/666	121/221	missense_variant c.362T>C p.Leu121Pro	MAGIC.stool.463.12_05640		Uncharacterized protein SAOUHSC_00094
+contig_6	60312	snp	C	A	A:174 C:0	CDS	+	586/2091	196/696	missense_variant c.586C>A p.Leu196Ile	MAGIC.stool.463.12_06500	nhaP	NhaP-type Na+/H+ or K+/H+ antiporter
+contig_6	176629	snp	G	A	A:158 G:0	CDS	-	1002/1545	334/514	synonymous_variant c.1002C>T p.Asp334Asp	MAGIC.stool.463.12_07040	pruA	L-glutamate gamma-semialdehyde dehydrogenase
+contig_6	179308	snp	G	T	T:136 G:0	CDS	+	220/2409	74/802	missense_variant c.220G>T p.Val74Phe	MAGIC.stool.463.12_07055	copZ	copper chaperone CopZ
+contig_7	120638	snp	T	G	G:209 T:0	CDS	+	1769/2010	590/669	missense_variant c.1769T>G p.Met590Arg	MAGIC.stool.463.12_07575	mutL	DNA mismatch repair endonuclease MutL
+contig_7	138065	mnp	GA	TG	TG:167 GA:0	CDS	-	1658/1848	553/615	missense_variant c.1657_1658delTCinsCA p.Ser553Gln	MAGIC.stool.463.12_07665		Mating channel protein
+contig_8	15746	snp	C	T	T:200 C:2	CDS	-	309/1176	103/391	synonymous_variant c.309G>A p.Gly103Gly	MAGIC.stool.463.12_07790	abgB	Metal-dependent amidase/aminoacylase/carboxypeptidase
+contig_8	21237	snp	C	T	T:171 C:0	CDS	+	662/966	221/321	missense_variant c.662C>T p.Ala221Val	MAGIC.stool.463.12_07810	wcaG	Uncharacterized epimerase/dehydratase SACOL0599
+contig_9	2723	snp	T	C	C:204 T:0	CDS	+	179/234	60/77	missense_variant c.179T>C p.Val60Ala	MAGIC.stool.463.12_08465		Phage protein
+contig_10	43771	snp	G	A	A:184 G:1	CDS	-	698/1209	233/402	missense_variant c.698C>T p.Ala233Val	MAGIC.stool.463.12_09280	gltS	sodium/glutamate symporter
+contig_10	72989	snp	C	T	T:194 C:0								
+contig_11	28397	snp	G	A	A:200 G:0	CDS	-	5304/25119	1768/8372	synonymous_variant c.5304C>T p.Gly1768Gly	MAGIC.stool.463.12_09675		hyperosmolarity resistance protein Ebh
+contig_15	32323	ins	C	CT	CT:163 C:0								
+contig_16	23883	snp	A	G	G:210 A:0	CDS	-	212/1008	71/335	missense_variant c.212T>C p.Val71Ala	MAGIC.stool.463.12_11640	qor	Zinc-type alcohol dehydrogenase-like protein MW2112
+contig_23	12696	snp	G	C	C:185 G:0	CDS	-	172/447	58/148	missense_variant c.172C>G p.Pro58Ala	MAGIC.stool.463.12_13160	yrdC	Sua5 YciO YrdC YwlC family protein

@@ -1,0 +1,9 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	737269	snp	A	G	G:282 A:1	CDS	-	236/798	79/265	missense_variant c.236T>C p.Ile79Thr	MAGIC.596.N.3_03615	fepC	ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component
+contig_2	289538	snp	T	C	C:268 T:0	CDS	-	951/1536	317/511	synonymous_variant c.951A>G p.Ala317Ala	MAGIC.596.N.3_05665	ushA	2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family
+contig_3	65960	snp	G	T	T:298 G:0	CDS	-	473/660	158/219	missense_variant c.473C>A p.Ala158Asp	MAGIC.596.N.3_07235		Membrane protein
+contig_6	69413	snp	G	A	A:288 G:0	CDS	-	964/1185	322/394	missense_variant c.964C>T p.His322Tyr	MAGIC.596.N.3_11320	abgB	Metal-dependent amidase/aminoacylase/carboxypeptidase
+contig_51	90	complex	GATTAAGGTG	TATCATGAGA	TATCATGAGA:153 GATTAAGGTG:0								
+contig_52	73	complex	CACCTTAATC	TCTCATGATA	TCTCATGATA:78 CACCTTAATC:0								
+contig_53	122	complex	GATTAAGGTG	TATCATGAGA	TATCATGAGA:20 GATTAAGGTG:0								
+contig_54	70	complex	TATCCTAA	CACGTGTT	CACGTGTT:123 TATCCTAA:0								

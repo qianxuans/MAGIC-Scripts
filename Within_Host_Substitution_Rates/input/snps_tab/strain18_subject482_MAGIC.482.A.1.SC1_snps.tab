@@ -1,0 +1,12 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	263778	snp	G	T	T:133 G:0								
+contig_1	431192	snp	A	G	G:137 A:0	CDS	+	66/1206	22/401	synonymous_variant c.66A>G p.Arg22Arg	MAGIC.482.N.4.SC1_02060	metL1	aspartate kinase
+contig_2	112274	snp	T	C	C:130 T:0	CDS	-	836/1398	279/465	missense_variant c.836A>G p.Asp279Gly	MAGIC.482.N.4.SC1_03485	nhaC	Na+/H+ antiporter NhaC
+contig_6	40737	snp	A	G	G:221 A:0	CDS	+	394/741	132/246	missense_variant c.394A>G p.Asn132Asp	MAGIC.482.N.4.SC1_09195	lytR	response regulator transcription factor LytR
+contig_7	56664	snp	G	A	A:120 G:0								
+contig_9	13873	snp	G	A	A:126 G:0	CDS	-	671/2028	224/675	missense_variant c.671C>T p.Thr224Met	MAGIC.482.N.4.SC1_11320	kdpB	potassium-transporting ATPase subunit KdpB
+contig_17	9860	ins	T	TAAAGGAGTGTTTTTGCCACATA	TAAAGGAGTGTTTTTGCCACATA:89 T:5								
+contig_56	67	complex	TATTCCTCAG	ACATGGTGTC	ACATGGTGTC:12 TATTCCTCAG:0								
+contig_62	146	complex	CTGAGGAATA	GACACCATGT	GACACCATGT:10 CTGAGGAATA:0								
+contig_75	74	complex	CTGAGGAATA	GACACCATGT	GACACCATGT:25 CTGAGGAATA:0								
+contig_77	35	complex	CTGAGGAATA	GACACCATGT	GACACCATGT:11 CTGAGGAATA:0								

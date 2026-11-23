@@ -1,0 +1,16 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	15907	snp	G	A	A:179 G:1	CDS	-	1751/1764	584/587	missense_variant c.1751C>T p.Thr584Ile	MAGIC.572.N.7_00075	mdlB	ABC-type multidrug transport system, ATPase and permease component
+contig_1	44076	snp	G	A	A:177 G:0	CDS	+	418/1353	140/450	missense_variant c.418G>A p.Ala140Thr	MAGIC.572.N.7_00190	pnbA	Carboxylesterase type B
+contig_1	47414	snp	C	T	T:200 C:1	CDS	-	19/777	7/258	missense_variant c.19G>A p.Gly7Arg	MAGIC.572.N.7_00200	fetB	iron export ABC transporter permease subunit FetB
+contig_1	113648	snp	T	G	G:208 T:0	CDS	+	947/1080	316/359	missense_variant c.947T>G p.Ile316Ser	MAGIC.572.N.7_00500	ykvI	Uncharacterized membrane protein YkvI
+contig_1	344745	snp	A	C	C:171 A:0								
+contig_2	39155	snp	T	C	C:134 T:0								
+contig_2	54179	snp	C	T	T:162 C:0	CDS	+	566/1392	189/463	missense_variant c.566C>T p.Pro189Leu	MAGIC.572.N.7_03880	norB	multidrug efflux MFS transporter NorB
+contig_3	186747	snp	A	C	C:159 A:0	CDS	-	560/627	187/208	missense_variant c.560T>G p.Val187Gly	MAGIC.572.N.7_06555		Tandem five-TM protein
+contig_3	226007	snp	C	A	A:164 C:0								
+contig_4	52083	snp	A	C	C:197 A:0	CDS	+	778/1026	260/341	missense_variant c.778A>C p.Ile260Leu	MAGIC.572.N.7_07245	queA	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+contig_5	106564	snp	A	T	T:189 A:0	CDS	-	79/1695	27/564	missense_variant c.79T>A p.Cys27Ser	MAGIC.572.N.7_08570		Terminase large subunit
+contig_8	69843	snp	C	A	A:206 C:0	CDS	+	186/1902	62/633	missense_variant c.186C>A p.Asp62Glu	MAGIC.572.N.7_11020		SGNH/GDSL hydrolase family protein
+contig_13	31908	snp	T	C	C:206 T:0	CDS	-	603/840	201/279	synonymous_variant c.603A>G p.Gln201Gln	MAGIC.572.N.7_13050	rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+contig_18	3924	del	CA	C	C:149 CA:0	CDS	-	57/1440	19/479	frameshift_variant c.57delT p.Phe19fs	MAGIC.572.N.7_13595	mdeA	multidrug efflux MFS transporter MdeA
+contig_68	86	complex	CGCGAGCCTA	GATAAGCTCT	GATAAGCTCT:18 CGCGAGCCTA:0								

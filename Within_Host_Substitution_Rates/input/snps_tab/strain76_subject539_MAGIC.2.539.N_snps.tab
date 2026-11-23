@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_6	66644	ins	A	AT	AT:95 A:2	CDS	-	533/585	178/194	frameshift_variant c.533dupA p.Asn178fs	MAGIC.539.G.5.SC1_10320		Respiratory nitrate reductase alpha chain
+contig_7	95974	snp	A	G	G:128 A:0								
+contig_59	67	complex	AACTCCGAAC	TTCTGCCT	TTCTGCCT:16 AACTCCGAAC:0								

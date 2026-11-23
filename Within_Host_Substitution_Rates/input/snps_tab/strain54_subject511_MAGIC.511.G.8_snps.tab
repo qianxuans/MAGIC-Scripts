@@ -1,0 +1,9 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	237336	snp	T	G	G:180 T:0	CDS	-	2283/2940	761/979	missense_variant c.2283A>C p.Glu761Asp	MAGIC.511.N.6_01120	clfB	MSCRAMM family adhesin clumping factor ClfB
+contig_1	650823	snp	C	T	T:160 C:0	CDS	-	97/801	33/266	missense_variant c.97G>A p.Ala33Thr	MAGIC.511.N.6_02890	rpiR	DNA-binding transcriptional regulator, MurR/RpiR family, contains HTH and SIS domains
+contig_2	103045	snp	T	C	C:151 T:0	CDS	+	2305/2754	769/917	missense_variant c.2305T>C p.Ser769Pro	MAGIC.511.N.6_04115	ileS	isoleucine--tRNA ligase
+contig_3	278122	snp	G	T	T:155 G:0								
+contig_4	109365	snp	C	A	A:171 C:0	CDS	-	345/954	115/317	synonymous_variant c.345G>T p.Ala115Ala	MAGIC.511.N.6_09430	ldhA	Putative 2-hydroxyacid dehydrogenase SAOUHSC_02577
+contig_4	168164	snp	C	T	T:154 C:0	CDS	+	71/537	24/178	missense_variant c.71C>T p.Ala24Val	MAGIC.511.N.6_09800	rplF	50S ribosomal protein L6
+contig_6	48779	del	AT	A	A:121 AT:0								
+contig_32	112	snp	T	G	G:304 T:34								

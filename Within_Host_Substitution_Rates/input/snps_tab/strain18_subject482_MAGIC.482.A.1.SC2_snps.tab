@@ -1,0 +1,9 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	431192	snp	A	G	G:127 A:0	CDS	+	66/1206	22/401	synonymous_variant c.66A>G p.Arg22Arg	MAGIC.482.N.4.SC1_02060	metL1	aspartate kinase
+contig_1	532085	snp	G	T	T:131 G:0	CDS	-	463/588	155/195	missense_variant c.463C>A p.Leu155Ile	MAGIC.482.N.4.SC1_02415	ypjA	Uncharacterized membrane protein YpjA
+contig_6	40737	snp	A	G	G:186 A:0	CDS	+	394/741	132/246	missense_variant c.394A>G p.Asn132Asp	MAGIC.482.N.4.SC1_09195	lytR	response regulator transcription factor LytR
+contig_66	147	complex	TGAGGAATA	CTGTCTGTC	CTGTCTGTC:13 TGAGGAATA:0								
+contig_67	147	complex	TGAGGAATA	CTGTCTGTC	CTGTCTGTC:15 TGAGGAATA:0								
+contig_74	116	complex	TATTCCTCA	GACAGACAG	GACAGACAG:12 TATTCCTCA:0								
+contig_75	75	complex	TGAGGAATA	CTGTCTGTC	CTGTCTGTC:116 TGAGGAATA:0								
+contig_77	36	complex	TGAGGAATA	CTGTCTGTC	CTGTCTGTC:11 TGAGGAATA:0								

@@ -1,0 +1,3 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	93599	snp	C	T	T:203 C:0	CDS	+	736/882	246/293	synonymous_variant c.736C>T p.Leu246Leu	MAGIC.2.521.G_00460	opp4C	oligopeptide ABC transporter permease
+contig_1	617275	snp	G	A	A:170 G:0	CDS	-	1240/1293	414/430	missense_variant c.1240C>T p.His414Tyr	MAGIC.2.521.G_02855	asnS	asparagine--tRNA ligase

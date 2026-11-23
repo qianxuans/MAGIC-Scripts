@@ -1,0 +1,2 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	142675	snp	A	G	G:148 A:0	CDS	+	528/1200	176/399	synonymous_variant c.528A>G p.Leu176Leu	MAGIC.512.N.2_05985	fadH	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family

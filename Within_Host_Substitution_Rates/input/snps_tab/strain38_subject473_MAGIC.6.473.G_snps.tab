@@ -1,0 +1,2 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_15	36078	snp	G	C	C:193 G:0	CDS	+	187/330	63/109	missense_variant c.187G>C p.Ala63Pro	MAGIC.5.473.N_10375	azlD2	Branched-chain amino acid transport protein

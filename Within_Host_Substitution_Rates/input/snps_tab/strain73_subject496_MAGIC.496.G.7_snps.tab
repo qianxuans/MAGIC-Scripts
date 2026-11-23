@@ -1,0 +1,16 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	315374	snp	A	C	C:149 A:0	CDS	-	2108/3453	703/1150	missense_variant c.2108T>G p.Leu703Arg	MAGIC.496.G.8_01475	pycA	pyruvate carboxylase
+contig_2	92327	snp	A	G	G:113 A:0								
+contig_2	110120	snp	A	G	G:142 A:0	CDS	-	75/450	25/149	synonymous_variant c.75T>C p.Ile25Ile	MAGIC.496.G.8_03885	argR	Arginine repressor
+contig_2	163410	snp	A	G	G:155 A:0	CDS	-	662/1014	221/337	missense_variant c.662T>C p.Met221Thr	MAGIC.496.G.8_04085	hisC	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase
+contig_2	210644	snp	T	C	C:150 T:0								
+contig_2	222344	snp	A	G	G:122 A:0	CDS	+	364/1827	122/608	missense_variant c.364A>G p.Ile122Val	MAGIC.496.G.8_04360	walK	cell wall metabolism sensor histidine kinase WalK
+contig_2	232656	snp	A	G	G:97 A:0	CDS	+	1039/1587	347/528	missense_variant c.1039A>G p.Lys347Glu	MAGIC.496.G.8_04395		Endonuclease
+contig_2	262560	del	TA	T	T:110 TA:0								
+contig_4	168838	snp	G	A	A:121 G:1	CDS	+	898/1203	300/400	missense_variant c.898G>A p.Ala300Thr	MAGIC.496.G.8_07770	ackA	Acetate kinase
+contig_4	168863	snp	A	T	T:128 A:0	CDS	+	923/1203	308/400	missense_variant c.923A>T p.Asn308Ile	MAGIC.496.G.8_07770	ackA	Acetate kinase
+contig_5	1999	snp	A	G	G:164 A:0	CDS	-	309/960	103/319	synonymous_variant c.309T>C p.Ser103Ser	MAGIC.496.G.8_07850	serA	Phosphoglycerate dehydrogenase or related dehydrogenase
+contig_6	33698	snp	G	A	A:116 G:0	CDS	-	920/1599	307/532	missense_variant c.920C>T p.Ala307Val	MAGIC.496.G.8_08985	lldP	L-lactate permease
+contig_6	47038	snp	A	G	G:152 A:0	CDS	-	1061/1443	354/480	missense_variant c.1061T>C p.Phe354Ser	MAGIC.496.G.8_09050	ptsG2	Phosphotransferase system IIB components
+contig_6	57877	snp	G	A	A:131 G:0	CDS	-	339/1170	113/389	synonymous_variant c.339C>T p.Phe113Phe	MAGIC.496.G.8_09100	narT	putative nitrate transporter NarT
+contig_10	46310	snp	A	T	T:156 A:0	CDS	-	267/2043	89/680	missense_variant c.267T>A p.Phe89Leu	MAGIC.496.G.8_11825	nhaP	NhaP-type Na+/H+ or K+/H+ antiporter

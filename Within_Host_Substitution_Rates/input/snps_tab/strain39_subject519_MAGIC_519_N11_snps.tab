@@ -1,0 +1,7 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	227165	snp	G	A	A:11 G:0	CDS	+	64/300	22/99	missense_variant c.64G>A p.Gly22Arg	MAGIC.519.N.3_01035		Competence protein ComGE
+contig_1	345393	snp	C	T	T:15 C:0	CDS	+	11516/31866	3839/10621	missense_variant c.11516C>T p.Ala3839Val	MAGIC.519.N.3_01550	ebh	Extracellular matrix-binding protein ebh
+contig_1	419978	snp	G	C	C:11 G:0	CDS	+	746/777	249/258	missense_variant c.746G>C p.Arg249Thr	MAGIC.519.N.3_01840	nikD	Nickel import system ATP-binding protein NikD
+contig_2	341329	snp	A	T	T:12 A:0	CDS	+	18/495	6/164	synonymous_variant c.18A>T p.Thr6Thr	MAGIC.519.N.3_03975		Acetyltransferase, putative
+contig_6	16645	del	TA	T	T:12 TA:0								
+contig_9	31097	snp	G	A	A:12 G:0								

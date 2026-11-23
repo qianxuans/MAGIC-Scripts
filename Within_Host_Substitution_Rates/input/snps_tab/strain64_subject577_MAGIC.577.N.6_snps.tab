@@ -1,0 +1,9 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	82539	snp	G	C	C:279 G:0	CDS	-	2635/3168	879/1055	missense_variant c.2635C>G p.Pro879Ala	MAGIC.577.G.6_00475	acrB	Multidrug efflux pump subunit AcrB
+contig_1	317947	snp	C	A	A:282 C:0	CDS	-	610/2862	204/953	missense_variant c.610G>T p.Val204Phe	MAGIC.577.G.6_01630	srmB	ATP-dependent RNA helicase SrmB
+contig_3	5672	snp	G	C	C:253 G:2	CDS	-	29/1719	10/572	missense_variant c.29C>G p.Ala10Gly	MAGIC.577.G.6_08330	ptsI	Phosphoenolpyruvate-protein phosphotransferase
+contig_4	78486	snp	G	A	A:237 G:0	CDS	+	253/396	85/131	missense_variant c.253G>A p.Asp85Asn	MAGIC.577.G.6_10715		Phage protein
+contig_5	61188	del	TATAATTC	T	T:181 TATAATTC:0	CDS	+	121/1284	41/427	frameshift_variant c.121_127delATAATTC p.Ile41fs	MAGIC.577.G.6_11355	yesM	Sensor histidine kinase YesM
+contig_5	62845	ins	A	ATTATG	ATTATG:222 A:0	CDS	+	478/483	160/160	frameshift_variant c.477_478insATGTT p.Phe160fs	MAGIC.577.G.6_11360	agrA	Accessory gene regulator protein A
+contig_7	32206	snp	C	G	G:283 C:1								
+contig_7	32392	snp	T	C	C:270 T:1	CDS	+	125/441	42/146	missense_variant c.125T>C p.Val42Ala	MAGIC.577.G.6_12095	hypR	redox-sensitive transcriptional regulator HypR

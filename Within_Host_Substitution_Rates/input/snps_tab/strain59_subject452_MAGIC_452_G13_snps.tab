@@ -1,0 +1,14 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	133881	snp	T	C	C:54 T:0	CDS	+	354/1200	118/399	synonymous_variant c.354T>C p.Phe118Phe	MAGIC.452.N.7_00695	fadH	2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family
+contig_1	293454	snp	T	C	C:48 T:0	CDS	+	605/1185	202/394	missense_variant c.605T>C p.Leu202Pro	MAGIC.452.N.7_01380	rocD	ornithine--oxo-acid transaminase
+contig_1	344587	snp	T	A	A:64 T:0								
+contig_1	715853	snp	C	T	T:26 C:0	CDS	-	497/1539	166/512	missense_variant c.497G>A p.Gly166Asp	MAGIC.452.N.7_03240	abgT	p-Aminobenzoyl-glutamate transporter AbgT
+contig_1	809356	snp	G	A	A:51 G:0								
+contig_2	440012	snp	G	A	A:30 G:0	CDS	+	3249/28644	1083/9547	synonymous_variant c.3249G>A p.Ser1083Ser	MAGIC.452.N.7_06910		hyperosmolarity resistance protein Ebh
+contig_2	514349	snp	T	A	A:33 T:0	CDS	+	540/918	180/305	missense_variant c.540T>A p.Asp180Glu	MAGIC.452.N.7_07160	pstA	phosphate ABC transporter permease PstA
+contig_3	41508	snp	A	T	T:45 A:0	CDS	-	165/675	55/224	missense_variant c.165T>A p.Asn55Lys	MAGIC.452.N.7_07945	comFC	DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain
+contig_4	45196	snp	T	A	A:42 T:0	CDS	+	2431/3174	811/1057	missense_variant c.2431T>A p.Leu811Ile	MAGIC.452.N.7_08800	carB	carbamoyl-phosphate synthase large subunit
+contig_5	66095	snp	C	T	T:53 C:0	CDS	-	719/1176	240/391	missense_variant c.719G>A p.Arg240Lys	MAGIC.452.N.7_09450	dltD	D-alanyl-lipoteichoic acid biosynthesis protein DltD
+contig_6	157	ins	A	AT	AT:31 A:0	CDS	-	646/732	216/243	frameshift_variant c.646dupA p.Ile216fs	MAGIC.452.N.7_09730	trkA	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain
+contig_6	13057	snp	G	A	A:45 G:0	CDS	+	343/807	115/268	missense_variant c.343G>A p.Ala115Thr	MAGIC.452.N.7_09800	ecfT	ECF-type transporter transmembrane protein EcfT
+contig_13	6964	snp	C	G	G:55 C:0	CDS	-	1888/3624	630/1207	missense_variant c.1888G>C p.Glu630Gln	MAGIC.452.N.7_12645	rpoC	DNA-directed RNA polymerase subunit beta'

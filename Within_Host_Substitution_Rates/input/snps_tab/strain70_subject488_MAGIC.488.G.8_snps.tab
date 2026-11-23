@@ -1,0 +1,11 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	256604	snp	C	A	A:113 C:0	CDS	+	2305/2478	769/825	missense_variant c.2305C>A p.Gln769Lys	MAGIC.488.A.8_01205	recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)
+contig_1	697342	snp	C	T	T:99 C:0	CDS	-	391/876	131/291	missense_variant c.391G>A p.Val131Ile	MAGIC.488.A.8_03215	rsgA	ribosome small subunit-dependent GTPase A
+contig_3	35355	ins	A	ATTC	ATTC:60 A:0	CDS	-	33/747	11/248	conservative_inframe_insertion c.31_33dupGAA p.Glu11dup	MAGIC.488.A.8_06095	lnsB	CPBP family lipoprotein N-acylation protein LnsB
+contig_3	126030	snp	C	T	T:141 C:1								
+contig_5	45177	snp	T	C	C:98 T:0	CDS	-	1489/2004	497/667	missense_variant c.1489A>G p.Asn497Asp	MAGIC.488.A.8_08990	ligA	NAD-dependent DNA ligase LigA
+contig_9	14503	snp	A	G	G:102 A:0								
+contig_9	74234	snp	C	T	T:131 C:0	CDS	+	2385/2406	795/801	synonymous_variant c.2385C>T p.Asn795Asn	MAGIC.488.A.8_11745	mnhA1	Na+/H+ antiporter Mnh1 subunit A
+contig_11	7002	snp	C	T	T:108 C:0	CDS	-	367/804	123/267	missense_variant c.367G>A p.Val123Met	MAGIC.488.A.8_12280	coaW	type II pantothenate kinase
+contig_15	4141	mnp	AACC	GGTT	GGTT:105 AACC:0								
+contig_50	145	complex	TTGGAATTCC	AAGCGCGCTT	AAGCGCGCTT:10 TTGGAATTCC:0								

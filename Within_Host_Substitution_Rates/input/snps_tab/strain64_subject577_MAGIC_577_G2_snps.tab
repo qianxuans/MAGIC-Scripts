@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	82539	snp	G	C	C:33 G:0	CDS	-	2635/3168	879/1055	missense_variant c.2635C>G p.Pro879Ala	MAGIC.577.G.6_00475	acrB	Multidrug efflux pump subunit AcrB
+contig_3	121954	snp	T	C	C:42 T:0	CDS	-	46/1815	16/604	missense_variant c.46A>G p.Met16Val	MAGIC.577.G.6_08905	oafA	Putative O-acetyltransferase MW0856
+contig_3	373984	snp	G	A	A:38 G:0	CDS	+	571/753	191/250	missense_variant c.571G>A p.Glu191Lys	MAGIC.577.G.6_10160		Putative membrane spanning protein
+contig_4	78486	snp	G	A	A:30 G:0	CDS	+	253/396	85/131	missense_variant c.253G>A p.Asp85Asn	MAGIC.577.G.6_10715		Phage protein
+contig_5	62845	ins	A	ATTATG	ATTATG:46 A:0	CDS	+	478/483	160/160	frameshift_variant c.477_478insATGTT p.Phe160fs	MAGIC.577.G.6_11360	agrA	Accessory gene regulator protein A
+contig_7	32206	snp	C	G	G:44 C:0								
+contig_26	94	snp	C	A	A:9 C:1								

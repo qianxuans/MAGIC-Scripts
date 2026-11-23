@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_3	151967	del	AT	A	A:33 AT:0	CDS	-	441/471	147/156	frameshift_variant c.441delA p.Lys147fs	MAGIC.573.G.3_05820	bceS	Two-component sensor histidine kinase BceS
+contig_4	86577	snp	G	T	T:25 G:0	CDS	+	853/1203	285/400	missense_variant c.853G>T p.Asp285Tyr	MAGIC.573.G.3_06990	ackA	Acetate kinase
+contig_7	148091	snp	C	A	A:26 C:0								

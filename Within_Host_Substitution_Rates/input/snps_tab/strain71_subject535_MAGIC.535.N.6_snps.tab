@@ -1,0 +1,9 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	344897	snp	T	C	C:84 T:0	CDS	-	668/3174	223/1057	missense_variant c.668A>G p.Asp223Gly	MAGIC.535.G.2_01470	carB	carbamoyl-phosphate synthase large subunit
+contig_1	669529	snp	T	G	G:89 T:0								
+contig_2	441905	snp	T	C	C:78 T:0	CDS	-	76/2664	26/887	missense_variant c.76A>G p.Thr26Ala	MAGIC.535.G.2_05455	gyrA	DNA gyrase subunit A
+contig_10	44372	snp	C	T	T:121 C:0								
+contig_11	29044	ins	C	CA	CA:76 C:0								
+contig_57	68	complex	ACTTGTT	TATGACA	TATGACA:14 ACTTGTT:0								
+contig_60	127	complex	ATAAG	TCATA	TCATA:69 ATAAG:0								
+contig_63	122	complex	ATAAG	TCATA	TCATA:23 ATAAG:0								

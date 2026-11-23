@@ -1,0 +1,3 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_15	36078	snp	G	C	C:131 G:0	CDS	+	187/330	63/109	missense_variant c.187G>C p.Ala63Pro	MAGIC.5.473.N_10375	azlD2	Branched-chain amino acid transport protein
+contig_25	19124	snp	A	C	C:134 A:0	CDS	+	1088/1770	363/589	missense_variant c.1088A>C p.Asn363Thr	MAGIC.5.473.N_12415	ilvD	dihydroxy-acid dehydratase

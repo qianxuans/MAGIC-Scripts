@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	168146	snp	G	A	A:179 G:0								
+contig_2	218263	del	GAGGTT	G	G:121 GAGGTT:0	CDS	-	1035/1356	344/451	frameshift_variant c.1031_1035delAACCT p.Lys344fs	MAGIC.478.A.6_03625	arlS	sensor histidine kinase ArlS
+contig_2	370449	snp	C	T	T:151 C:0	CDS	-	1120/1347	374/448	missense_variant c.1120G>A p.Gly374Ser	MAGIC.478.A.6_04250	gcvPA	aminomethyl-transferring glycine dehydrogenase subunit GcvPA
+contig_14	20501	snp	G	C	C:178 G:0	CDS	-	200/444	67/147	missense_variant c.200C>G p.Ala67Gly	MAGIC.478.A.6_12605	mgrA	HTH-type transcriptional regulator MgrA
+contig_15	32260	snp	C	T	T:143 C:0	CDS	+	225/744	75/247	synonymous_variant c.225C>T p.Ile75Ile	MAGIC.478.A.6_12845	znuC	ABC-type Mn2+/Zn2+ transport system, ATPase component
+contig_49	146	complex	TATGTAGTCA	ACTCGGCAAT	ACTCGGCAAT:10 TATGTAGTCA:0								
+contig_61	126	complex	CATTAGTGCG	TTCAGTTGTC	TTCAGTTGTC:10 CATTAGTGCG:0								

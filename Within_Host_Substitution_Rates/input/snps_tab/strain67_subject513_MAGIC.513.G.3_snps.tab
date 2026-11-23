@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	6033	snp	C	T	T:189 C:1	CDS	+	56/600	19/199	missense_variant c.56C>T p.Ala19Val	MAGIC.513.G.8_00035	nagB	6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase
+contig_1	284410	snp	T	C	C:209 T:0	CDS	+	194/432	65/143	missense_variant c.194T>C p.Val65Ala	MAGIC.513.G.8_01385	comEB	ComE operon protein 2
+contig_1	655113	snp	C	T	T:192 C:0	CDS	-	404/4317	135/1438	missense_variant c.404G>A p.Arg135His	MAGIC.513.G.8_03040	polC	PolC-type DNA polymerase III
+contig_2	182122	snp	T	G	G:234 T:0	CDS	+	1441/2238	481/745	missense_variant c.1441T>G p.Tyr481Asp	MAGIC.513.G.8_04340	xynB	Uncharacterized HTH-type transcriptional regulator SA0097
+contig_2	292042	snp	T	C	C:218 T:0	CDS	+	794/897	265/298	missense_variant c.794T>C p.Val265Ala	MAGIC.513.G.8_04790	murQ	N-acetylmuramic acid 6-phosphate etherase
+contig_5	167975	snp	A	G	G:258 A:0	CDS	+	265/1269	89/422	missense_variant c.265A>G p.Thr89Ala	MAGIC.513.G.8_11745	ilvA	threonine ammonia-lyase IlvA
+contig_29	35	complex	CGTACAGGAA	ATACTTGTTC	ATACTTGTTC:39 CGTACAGGAA:0								

@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_4	44996	snp	C	A	A:37 C:0	CDS	-	774/1359	258/452	missense_variant c.774G>T p.Glu258Asp	MAGIC.510.N.6_03425	bioA	adenosylmethionine--8-amino-7-oxononanoate transaminase
+contig_9	17638	snp	C	G	G:19 C:0								
+contig_12	13532	snp	A	C	C:33 A:0	CDS	+	188/420	63/139	missense_variant c.188A>C p.Asn63Thr	MAGIC.510.N.6_09045	mepR	multidrug efflux transporter transcriptional repressor MepR

@@ -1,0 +1,10 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	22181	snp	G	A	A:152 G:0								
+contig_1	227622	snp	T	C	C:151 T:0	CDS	-	964/1392	322/463	missense_variant c.964A>G p.Lys322Glu	MAGIC.498.N.9_01035	glyQS	glycine--tRNA ligase
+contig_1	384100	snp	T	C	C:136 T:0	CDS	+	1367/3933	456/1310	missense_variant c.1367T>C p.Val456Ala	MAGIC.498.N.9_01670		DUF1542 domain-containing protein
+contig_1	677952	snp	G	T	T:147 G:0								
+contig_2	303197	snp	A	T	T:151 A:0								
+contig_2	461681	snp	G	T	T:131 G:0								
+contig_6	70101	snp	A	G	G:174 A:0	CDS	-	277/441	93/146	missense_variant c.277T>C p.Ser93Pro	MAGIC.498.N.9_11055	ywpF	YwpF protein
+contig_9	13259	ins	C	CT	CT:108 C:1								
+contig_49	75	snp	C	A	A:13 C:0								

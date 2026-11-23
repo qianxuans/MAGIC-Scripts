@@ -1,0 +1,7 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	497211	complex	GTCAGCA	ATCTGCG	ATCTGCG:94 GTCAGCA:0								
+contig_2	497229	complex	ATCT	GTCA	GTCA:75 ATCT:0								
+contig_3	151967	del	AT	A	A:294 AT:0	CDS	-	441/471	147/156	frameshift_variant c.441delA p.Lys147fs	MAGIC.573.G.3_05820	bceS	Two-component sensor histidine kinase BceS
+contig_3	200607	snp	C	G	G:325 C:0	ncRNA	+			intragenic_variant n.200607C>G 	MAGIC.573.G.3_06085	S35	Staphylococcus sRNA 35 (srn_0335)
+contig_4	86439	snp	A	G	G:292 A:0	CDS	+	715/1203	239/400	missense_variant c.715A>G p.Thr239Ala	MAGIC.573.G.3_06990	ackA	Acetate kinase
+contig_47	73	complex	GATCGTCGCG	TATCCGAGGC	TATCCGAGGC:24 GATCGTCGCG:0								

@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	154466	snp	A	G	G:23 A:0	CDS	+	764/1041	255/346	missense_variant c.764A>G p.Asp255Gly	MAGIC.stool.545.6_00770	graS	histidine kinase GraS/ApsS
+contig_3	204548	snp	T	C	C:20 T:0								
+contig_7	87247	snp	C	T	T:30 C:0								
+contig_8	71993	del	AAT	A	A:12 AAT:0								

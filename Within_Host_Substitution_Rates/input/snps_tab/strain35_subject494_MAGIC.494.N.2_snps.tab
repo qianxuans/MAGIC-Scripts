@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	379216	snp	G	C	C:149 G:0	CDS	-	1545/2274	515/757	synonymous_variant c.1545C>G p.Ala515Ala	MAGIC.494.N.5_01725	recJ	single-stranded-DNA-specific exonuclease RecJ
+contig_12	46264	snp	T	C	C:175 T:0	CDS	+	627/702	209/233	synonymous_variant c.627T>C p.Ile209Ile	MAGIC.494.N.5_11435	yycF	response regulator YycF
+contig_16	34667	snp	A	C	C:232 A:0	tRNA	+			intragenic_variant n.34667A>C 	MAGIC.494.N.5_12445	trnfM	tRNA-fMet(cat)

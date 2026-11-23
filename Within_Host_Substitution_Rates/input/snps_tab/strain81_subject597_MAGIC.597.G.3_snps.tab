@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	110958	snp	G	T	T:42 G:0	CDS	+	929/1665	310/554	missense_variant c.929G>T p.Ser310Ile	MAGIC.597.G.4_02005	walK	Sensor histidine kinase WalK
+contig_2	287826	del	GA	G	G:33 GA:0								
+contig_3	192441	snp	A	G	G:79 A:0	CDS	+	432/1554	144/517	synonymous_variant c.432A>G p.Arg144Arg	MAGIC.597.G.4_03840	asp1	accessory Sec system protein Asp1
+contig_12	50848	ins	A	AG	AG:29 A:0								
+contig_21	2259	snp	T	A	A:36 T:0	CDS	-	1200/2106	400/701	missense_variant c.1200A>T p.Leu400Phe	MAGIC.597.G.4_13040	rsp	AraC family transcriptional regulator Rsp
+contig_56	84	complex	GAACTCGGTT	AGCAGAATTA	AGCAGAATTA:73 GAACTCGGTT:0								
+contig_57	116	complex	GAACTCGGTT	AGCAGAATTA	AGCAGAATTA:33 GAACTCGGTT:0								

@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	719691	snp	A	C	C:142 A:0								
+contig_3	372748	snp	A	G	G:180 A:0								
+contig_5	67404	snp	A	C	C:185 A:0								
+contig_6	72741	snp	T	G	G:142 T:0								
+contig_10	32187	snp	A	C	C:116 A:0								
+contig_11	2544	del	ATT	A	A:127 ATT:0	CDS	+	171/180	57/59	frameshift_variant c.171_172delTT p.Phe57fs	MAGIC.7.469.G_13010		cyclic-di-AMP receptor
+contig_11	7923	snp	C	T	T:176 C:0	CDS	+	542/1974	181/657	missense_variant c.542C>T p.Ser181Leu	MAGIC.7.469.G_13050	metG	methionine--tRNA ligase

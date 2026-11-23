@@ -1,0 +1,15 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	107776	snp	T	C	C:28 T:0	CDS	-	1587/1674	529/557	synonymous_variant c.1587A>G p.Pro529Pro	MAGIC.496.G.8_00525	glpD	Aerobic glycerol-3-phosphate dehydrogenase
+contig_1	315374	snp	A	C	C:22 A:0	CDS	-	2108/3453	703/1150	missense_variant c.2108T>G p.Leu703Arg	MAGIC.496.G.8_01475	pycA	pyruvate carboxylase
+contig_1	537622	snp	C	T	T:20 C:0	CDS	-	113/1068	38/355	missense_variant c.113G>A p.Gly38Asp	MAGIC.496.G.8_02590	yrpB	putative nitronate monooxygenase
+contig_2	92327	snp	A	G	G:30 A:0								
+contig_2	110120	snp	A	G	G:35 A:1	CDS	-	75/450	25/149	synonymous_variant c.75T>C p.Ile25Ile	MAGIC.496.G.8_03885	argR	Arginine repressor
+contig_2	163410	snp	A	G	G:28 A:0	CDS	-	662/1014	221/337	missense_variant c.662T>C p.Met221Thr	MAGIC.496.G.8_04085	hisC	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase
+contig_2	210644	snp	T	C	C:29 T:0								
+contig_2	222344	snp	A	G	G:25 A:0	CDS	+	364/1827	122/608	missense_variant c.364A>G p.Ile122Val	MAGIC.496.G.8_04360	walK	cell wall metabolism sensor histidine kinase WalK
+contig_2	232656	snp	A	G	G:28 A:0	CDS	+	1039/1587	347/528	missense_variant c.1039A>G p.Lys347Glu	MAGIC.496.G.8_04395		Endonuclease
+contig_2	262560	del	TA	T	T:30 TA:0								
+contig_2	464195	snp	G	A	A:38 G:0	CDS	+	280/3030	94/1009	missense_variant c.280G>A p.Glu94Lys	MAGIC.496.G.8_05410	esaA	type VII secretion system protein EsaA
+contig_3	26848	snp	G	T	T:29 G:0	CDS	-	898/1125	300/374	missense_variant c.898C>A p.Pro300Thr	MAGIC.496.G.8_05730	cvfC	Conserved virulence factor C
+contig_3	31270	snp	T	C	C:30 T:0	CDS	-	30505/31644	10169/10547	missense_variant c.30505A>G p.Ile10169Val	MAGIC.496.G.8_05755	ebh	Extracellular matrix-binding protein ebh
+contig_10	31688	snp	C	T	T:31 C:0	CDS	-	288/1728	96/575	stop_gained c.288G>A p.Trp96*	MAGIC.496.G.8_11755	mdlB	ABC-type multidrug transport system, ATPase and permease component

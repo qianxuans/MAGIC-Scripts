@@ -1,0 +1,9 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	287826	del	GA	G	G:40 GA:0								
+contig_3	170708	snp	G	T	T:52 G:0	CDS	+	1006/2046	336/681	missense_variant c.1006G>T p.Asp336Tyr	MAGIC.597.G.4_03750	lip1	YSIRK domain-containing triacylglycerol lipase Lip1
+contig_3	177563	snp	G	T	T:67 G:0	CDS	+	577/663	193/220	stop_gained c.577G>T p.Glu193*	MAGIC.597.G.4_03780	capA	Capsular polysaccharide biosynthesis protein CapA
+contig_3	192441	snp	A	G	G:55 A:0	CDS	+	432/1554	144/517	synonymous_variant c.432A>G p.Arg144Arg	MAGIC.597.G.4_03840	asp1	accessory Sec system protein Asp1
+contig_7	2259	snp	G	A	A:61 G:0	CDS	-	856/1443	286/480	synonymous_variant c.856C>T p.Leu286Leu	MAGIC.597.G.4_07685	lmrS	multidrug efflux MFS transporter LmrS
+contig_53	146	complex	CCAGAGATC	GCCGGTCAG	GCCGGTCAG:10 CCAGAGATC:0								
+contig_56	84	complex	GAACTCGGTT	ACAACCAGGA	ACAACCAGGA:73 GAACTCGGTT:0								
+contig_57	116	complex	GAACTCGGTT	ACAACCAGGA	ACAACCAGGA:30 GAACTCGGTT:0								

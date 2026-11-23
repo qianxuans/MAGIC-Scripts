@@ -1,0 +1,6 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	53197	snp	C	T	T:235 C:0								
+contig_5	4810	snp	A	G	G:258 A:0								
+contig_5	58430	snp	T	C	C:272 T:0	CDS	+	362/666	121/221	missense_variant c.362T>C p.Leu121Pro	MAGIC.stool.463.12_05640		Uncharacterized protein SAOUHSC_00094
+contig_5	67598	del	AC	A	A:209 AC:0								
+contig_16	23883	snp	A	G	G:217 A:0	CDS	-	212/1008	71/335	missense_variant c.212T>C p.Val71Ala	MAGIC.stool.463.12_11640	qor	Zinc-type alcohol dehydrogenase-like protein MW2112

@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	54589	snp	T	C	C:90 T:0	CDS	-	362/699	121/232	missense_variant c.362A>G p.Asp121Gly	MAGIC.488.G.7.SC1_00290	set24	superantigen-like protein SSL9
+contig_1	559145	snp	G	A	A:116 G:1	CDS	+	2489/2958	830/985	missense_variant c.2489G>A p.Ser830Asn	MAGIC.488.G.7.SC1_02530		hypothetical protein
+contig_3	376822	del	AT	A	A:134 AT:0								
+contig_4	149765	snp	T	C	C:100 T:0	CDS	-	1771/2754	591/917	missense_variant c.1771A>G p.Ser591Gly	MAGIC.488.G.7.SC1_08380	ileS	isoleucine--tRNA ligase

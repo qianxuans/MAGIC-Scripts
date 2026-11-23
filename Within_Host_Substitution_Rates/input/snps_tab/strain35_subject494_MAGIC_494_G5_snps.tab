@@ -1,0 +1,9 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	422510	snp	G	A	A:25 G:0	CDS	-	11/471	4/156	missense_variant c.11C>T p.Pro4Leu	MAGIC.494.N.5_01925	nrdR	transcriptional regulator NrdR
+contig_2	486456	snp	C	A	A:31 C:0								
+contig_3	20863	snp	G	T	T:29 G:0	CDS	-	438/1026	146/341	missense_variant c.438C>A p.Ser146Arg	MAGIC.494.N.5_05450	aaa	autolysin/adhesin Aaa
+contig_3	99616	snp	G	T	T:34 G:0	CDS	+	2144/2229	715/742	missense_variant c.2144G>T p.Cys715Phe	MAGIC.494.N.5_05860	metE	5-methyltetrahydropteroyltriglutamate--homocystei ne S-methyltransferase
+contig_3	275089	snp	C	A	A:16 C:0								
+contig_7	101598	snp	A	C	C:14 A:0	CDS	+	701/1479	234/492	missense_variant c.701A>C p.Asn234Thr	MAGIC.494.N.5_09425	spa	Immunoglobulin G binding protein A precursor
+contig_7	101752	snp	T	C	C:12 T:0	CDS	+	855/1479	285/492	synonymous_variant c.855T>C p.Ile285Ile	MAGIC.494.N.5_09425	spa	Immunoglobulin G binding protein A precursor
+contig_16	34667	snp	A	C	C:19 A:0	tRNA	+			intragenic_variant n.34667A>C 	MAGIC.494.N.5_12445	trnfM	tRNA-fMet(cat)

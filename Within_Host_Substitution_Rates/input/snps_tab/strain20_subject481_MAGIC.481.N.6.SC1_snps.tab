@@ -1,0 +1,6 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	301079	snp	T	C	C:166 T:0	CDS	+	122/495	41/164	missense_variant c.122T>C p.Met41Thr	MAGIC.stool.481.12_01440	yagU	DUF1440 domain-containing protein
+contig_3	261973	snp	A	G	G:155 A:0								
+contig_4	164507	snp	C	G	G:146 C:0	CDS	-	548/948	183/315	missense_variant c.548G>C p.Arg183Pro	MAGIC.stool.481.12_05985	ytxK	Adenine-specific DNA N6-methylase
+contig_5	48023	snp	T	A	A:174 T:0	CDS	-	13/669	5/222	missense_variant c.13A>T p.Ile5Leu	MAGIC.stool.481.12_06570	yggS	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family
+contig_6	31356	snp	T	C	C:120 T:0								

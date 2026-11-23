@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	725288	del	CT	C	C:201 CT:0	CDS	-	169/705	57/234	frameshift_variant c.169delA p.Arg57fs	MAGIC.511.N.6_03270	mazF	Endoribonuclease MazF
+contig_3	192235	snp	T	C	C:191 T:1								
+contig_4	168164	snp	C	T	T:188 C:0	CDS	+	71/537	24/178	missense_variant c.71C>T p.Ala24Val	MAGIC.511.N.6_09800	rplF	50S ribosomal protein L6

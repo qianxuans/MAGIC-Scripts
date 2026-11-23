@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	142780	snp	C	T	T:239 C:0	CDS	+	65/819	22/272	missense_variant c.65C>T p.Ala22Val	MAGIC.573.G.3_00615	panB	3-methyl-2-oxobutanoate hydroxymethyltransferase
+contig_2	497211	complex	GTCAGCA	ATCTGCG	ATCTGCG:69 GTCAGCA:2								
+contig_2	497229	complex	ATCT	GTCA	GTCA:57 ATCT:2								
+contig_3	151967	del	AT	A	A:204 AT:0	CDS	-	441/471	147/156	frameshift_variant c.441delA p.Lys147fs	MAGIC.573.G.3_05820	bceS	Two-component sensor histidine kinase BceS
+contig_3	200607	snp	C	G	G:289 C:3	ncRNA	+			intragenic_variant n.200607C>G 	MAGIC.573.G.3_06085	S35	Staphylococcus sRNA 35 (srn_0335)
+contig_4	86439	snp	A	G	G:227 A:2	CDS	+	715/1203	239/400	missense_variant c.715A>G p.Thr239Ala	MAGIC.573.G.3_06990	ackA	Acetate kinase
+contig_47	73	complex	GATCGTCGCG	CGCTGTCTCA	CGCTGTCTCA:59 GATCGTCGCG:0								

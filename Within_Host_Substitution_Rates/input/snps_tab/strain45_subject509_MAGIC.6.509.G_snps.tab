@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	30363	snp	A	C	C:85 A:0	CDS	+	109/849	37/282	synonymous_variant c.109A>C p.Arg37Arg	MAGIC.509.N.5_00120		glycosyltransferase family 2 protein
+contig_4	16877	snp	G	A	A:73 G:0	CDS	-	1808/3198	603/1065	missense_variant c.1808C>T p.Pro603Leu	MAGIC.509.N.5_04270	dnaE	DNA polymerase III subunit alpha
+contig_5	75333	snp	C	T	T:80 C:0	CDS	-	263/903	88/300	missense_variant c.263G>A p.Arg88Lys	MAGIC.509.N.5_05645	yfcH	Epimerase family protein SAR0825
+contig_13	78317	snp	T	G	G:60 T:1								

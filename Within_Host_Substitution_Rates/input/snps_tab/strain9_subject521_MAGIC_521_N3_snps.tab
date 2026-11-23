@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	93599	snp	C	T	T:40 C:0	CDS	+	736/882	246/293	synonymous_variant c.736C>T p.Leu246Leu	MAGIC.2.521.G_00460	opp4C	oligopeptide ABC transporter permease
+contig_2	35270	snp	T	C	C:41 T:0	CDS	-	577/621	193/206	missense_variant c.577A>G p.Ile193Val	MAGIC.2.521.G_04160	srtA	class A sortase SrtA
+contig_6	105602	snp	C	T	T:24 C:0	CDS	-	675/1182	225/393	synonymous_variant c.675G>A p.Ser225Ser	MAGIC.2.521.G_10720	paaJ	putative acetyl-CoA acyltransferase

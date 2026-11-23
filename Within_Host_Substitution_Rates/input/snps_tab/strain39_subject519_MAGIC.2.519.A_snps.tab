@@ -1,0 +1,3 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	461119	snp	A	T	T:177 A:1								
+contig_11	6065	snp	T	A	A:210 T:0	CDS	+	554/888	185/295	missense_variant c.554T>A p.Val185Glu	MAGIC.519.N.3_10650	nsaS	nisin susceptibility-associated two-component system sensor histidine kinase NsaS

@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	286274	snp	G	A	A:143 G:0	CDS	-	962/1092	321/363	missense_variant c.962C>T p.Ser321Leu	MAGIC.558.N.5_01245	gcvT	glycine cleavage system aminomethyltransferase GcvT
+contig_2	349182	snp	T	C	C:154 T:0	CDS	+	134/828	45/275	missense_variant c.134T>C p.Ile45Thr	MAGIC.558.N.5_04315	suhB	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family
+contig_5	144537	snp	A	C	C:166 A:0	CDS	-	2103/3552	701/1183	missense_variant c.2103T>G p.Asp701Glu	MAGIC.558.N.5_08420	rpoB	DNA-directed RNA polymerase subunit beta
+contig_6	7446	ins	T	TC	TC:113 T:2								
+contig_54	112	snp	T	G	G:288 T:26								
+contig_56	114	complex	GATTGTCATA	CCAACAACAT	CCAACAACAT:12 GATTGTCATA:0								
+contig_60	117	complex	GATTGTCATA	CCAACAACAT	CCAACAACAT:14 GATTGTCATA:0								

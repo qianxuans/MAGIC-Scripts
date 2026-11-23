@@ -1,0 +1,34 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	61227	snp	T	A	A:80 T:0	CDS	-	2404/3030	802/1009	missense_variant c.2404A>T p.Thr802Ser	MAGIC.496.G.8_00265	sbcC	exonuclease subunit SbcC
+contig_1	194965	snp	C	G	G:99 C:0	CDS	-	665/987	222/328	missense_variant c.665G>C p.Gly222Ala	MAGIC.496.G.8_00885	plsX	phosphate acyltransferase PlsX
+contig_1	203591	snp	A	G	G:104 A:0	CDS	-	329/876	110/291	missense_variant c.329T>C p.Leu110Ser	MAGIC.496.G.8_00925	rsgA	ribosome small subunit-dependent GTPase A
+contig_1	266575	snp	A	G	G:88 A:0	CDS	+	638/726	213/241	missense_variant c.638A>G p.Asn213Ser	MAGIC.496.G.8_01230	ssl13	superantigen-like protein SSL13
+contig_1	312571	snp	T	C	C:84 T:0								
+contig_1	315374	snp	A	C	C:96 A:1	CDS	-	2108/3453	703/1150	missense_variant c.2108T>G p.Leu703Arg	MAGIC.496.G.8_01475	pycA	pyruvate carboxylase
+contig_1	398563	snp	C	T	T:102 C:0	CDS	-	91/642	31/213	missense_variant c.91G>A p.Ala31Thr	MAGIC.496.G.8_01880	lolD	ABC-type lipoprotein export system, ATPase component
+contig_1	651319	mnp	CC	TT	TT:87 CC:0	CDS	-	528/1005	176/334	stop_gained c.527_528delGGinsAA p.Trp176*	MAGIC.496.G.8_03145	pxpC	5-oxoprolinase subunit C/Allophanate hydrolase subunit 2
+contig_1	681311	ins	G	GT	GT:92 G:0								
+contig_2	30160	snp	G	A	A:100 G:0	CDS	-	650/864	217/287	missense_variant c.650C>T p.Ala217Val	MAGIC.496.G.8_03510	crtM	4,4'-diapophytoene synthase
+contig_2	92327	snp	A	G	G:134 A:0								
+contig_2	110120	snp	A	G	G:133 A:0	CDS	-	75/450	25/149	synonymous_variant c.75T>C p.Ile25Ile	MAGIC.496.G.8_03885	argR	Arginine repressor
+contig_2	163410	snp	A	G	G:122 A:0	CDS	-	662/1014	221/337	missense_variant c.662T>C p.Met221Thr	MAGIC.496.G.8_04085	hisC	Histidinol-phosphate/aromatic aminotransferase or cobyric acid decarboxylase
+contig_2	210644	snp	T	C	C:137 T:0								
+contig_2	222344	snp	A	G	G:90 A:1	CDS	+	364/1827	122/608	missense_variant c.364A>G p.Ile122Val	MAGIC.496.G.8_04360	walK	cell wall metabolism sensor histidine kinase WalK
+contig_2	229508	snp	G	A	A:121 G:1	CDS	+	2169/2319	723/772	synonymous_variant c.2169G>A p.Gln723Gln	MAGIC.496.G.8_04380	adsA	Adenosine synthase A
+contig_2	232656	snp	A	G	G:110 A:0	CDS	+	1039/1587	347/528	missense_variant c.1039A>G p.Lys347Glu	MAGIC.496.G.8_04395		Endonuclease
+contig_2	262560	del	TA	T	T:93 TA:0								
+contig_2	288395	snp	A	C	C:112 A:0								
+contig_2	432535	snp	T	C	C:108 T:0	CDS	+	297/717	99/238	synonymous_variant c.297T>C p.Asn99Asn	MAGIC.496.G.8_05250	tarI1	Ribitol-5-phosphate cytidylyltransferase 1
+contig_3	98845	snp	G	T	T:85 G:0								
+contig_4	76960	del	CAG	C	C:96 CAG:0								
+contig_4	102277	snp	C	T	T:100 C:0								
+contig_4	168863	snp	A	T	T:83 A:0	CDS	+	923/1203	308/400	missense_variant c.923A>T p.Asn308Ile	MAGIC.496.G.8_07770	ackA	Acetate kinase
+contig_5	44189	snp	G	A	A:91 G:0	CDS	-	413/1200	138/399	missense_variant c.413C>T p.Ala138Val	MAGIC.496.G.8_08070	camS	Uncharacterized conserved protein involved in sex pheromone biosynthesis
+contig_6	7719	snp	C	T	T:140 C:0	CDS	-	487/1233	163/410	missense_variant c.487G>A p.Val163Met	MAGIC.496.G.8_08860	natB	ABC-type Na+ efflux pump, permease component NatB
+contig_6	33698	snp	G	A	A:115 G:0	CDS	-	920/1599	307/532	missense_variant c.920C>T p.Ala307Val	MAGIC.496.G.8_08985	lldP	L-lactate permease
+contig_6	47038	snp	A	G	G:129 A:0	CDS	-	1061/1443	354/480	missense_variant c.1061T>C p.Phe354Ser	MAGIC.496.G.8_09050	ptsG2	Phosphotransferase system IIB components
+contig_7	88052	snp	A	C	C:117 A:0	CDS	+	808/1524	270/507	missense_variant c.808A>C p.Ile270Leu	MAGIC.496.G.8_10075	ahpF	alkyl hydroperoxide reductase subunit F
+contig_7	134063	snp	A	G	G:96 A:0	CDS	+	103/1347	35/448	missense_variant c.103A>G p.Thr35Ala	MAGIC.496.G.8_10335	ulaA	PTS ascorbate transporter subunit IIC
+contig_8	91391	snp	C	T	T:104 C:0	CDS	+	1454/1539	485/512	missense_variant c.1454C>T p.Ala485Val	MAGIC.496.G.8_10915	mtlA	PTS system mannitol-specific EIICB component
+contig_10	46310	snp	A	T	T:114 A:0	CDS	-	267/2043	89/680	missense_variant c.267T>A p.Phe89Leu	MAGIC.496.G.8_11825	nhaP	NhaP-type Na+/H+ or K+/H+ antiporter
+contig_15	3078	del	CCAGTTGATG	C	C:106 CCAGTTGATG:0	CDS	+	316/339	106/112	conservative_inframe_deletion c.316_324delGTTGATGCA p.Val106_Ala108del	MAGIC.496.G.8_13065	darA	Cyclic di-AMP receptor DarA/PstA

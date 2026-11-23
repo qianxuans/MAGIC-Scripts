@@ -1,0 +1,7 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	247309	snp	T	C	C:136 T:0	CDS	-	117/1293	39/430	synonymous_variant c.117A>G p.Val39Val	MAGIC.491.N.9_01200	pdhC	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+contig_2	151691	snp	C	T	T:175 C:0								
+contig_2	334719	del	GTAATGTTTT	G	G:74 GTAATGTTTT:0								
+contig_3	100085	snp	C	A	A:219 C:0	CDS	-	614/861	205/286	missense_variant c.614G>T p.Gly205Val	MAGIC.491.N.9_05905	nagC	Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain
+contig_3	318107	snp	G	T	T:124 G:0								
+contig_10	4212	snp	C	T	T:103 C:0	CDS	-	29/990	10/329	missense_variant c.29G>A p.Arg10Lys	MAGIC.491.N.9_12165	ccpA	catabolite control protein A

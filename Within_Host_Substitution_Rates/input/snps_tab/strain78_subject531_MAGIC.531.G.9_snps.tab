@@ -1,0 +1,19 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	55066	snp	G	A	A:36 G:0								
+contig_1	249083	snp	T	G	G:44 T:0								
+contig_1	294747	snp	A	G	G:28 A:0								
+contig_2	111671	snp	T	C	C:28 T:0	CDS	-	373/936	125/311	missense_variant c.373A>G p.Thr125Ala	MAGIC.531.N.5_03410	miaA	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+contig_2	355672	snp	T	G	G:17 T:0								
+contig_3	11422	snp	G	A	A:45 G:0	CDS	+	1036/1386	346/461	missense_variant c.1036G>A p.Gly346Ser	MAGIC.531.N.5_05725	fumC	class II fumarate hydratase
+contig_3	15639	snp	G	T	T:31 G:0	CDS	+	308/465	103/154	missense_variant c.308G>T p.Ser103Ile	MAGIC.531.N.5_05745	xRE	DNA-binding transcriptional regulator, XRE-family HTH domain
+contig_3	135289	snp	T	A	A:64 T:0	CDS	+	690/1353	230/450	missense_variant c.690T>A p.His230Gln	MAGIC.531.N.5_06320		Maebl
+contig_3	281916	snp	T	G	G:48 T:0								
+contig_3	294998	snp	G	A	A:18 G:0	CDS	+	326/975	109/324	missense_variant c.326G>A p.Arg109Gln	MAGIC.531.N.5_07045	holA	DNA polymerase III subunit delta
+contig_4	2429	snp	A	C	C:42 A:0								
+contig_4	102254	snp	C	G	G:32 C:0	CDS	-	532/1959	178/652	missense_variant c.532G>C p.Glu178Gln	MAGIC.531.N.5_07990	ptsN	Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+contig_4	197864	snp	A	G	G:46 A:0								
+contig_4	220827	snp	C	A	A:42 C:0	CDS	-	748/1140	250/379	stop_gained c.748G>T p.Glu250*	MAGIC.531.N.5_08620	vraB	Putative acetyl-CoA C-acetyltransferase VraB
+contig_6	87920	snp	A	G	G:31 A:0								
+contig_6	105743	snp	C	A	A:36 C:0	CDS	-	19/240	7/79	missense_variant c.19G>T p.Asp7Tyr	MAGIC.531.N.5_10505		Terminase large subunit
+contig_9	80008	snp	C	G	G:37 C:0	CDS	+	23944/28479	7982/9492	missense_variant c.23944C>G p.Arg7982Gly	MAGIC.531.N.5_12485		hyperosmolarity resistance protein Ebh
+contig_66	114	complex	ACAGAGGCCA	TAGGAACCGG	TAGGAACCGG:50 ACAGAGGCCA:0								

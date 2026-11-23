@@ -1,0 +1,20 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_4	14966	snp	A	G	G:78 A:0								
+contig_4	88287	snp	G	A	A:90 G:0	CDS	+	903/2211	301/736	synonymous_variant c.903G>A p.Gly301Gly	MAGIC.stool.459.6_03415	relA	GTP pyrophosphokinase
+contig_6	126738	snp	T	C	C:62 T:0	CDS	-	131/552	44/183	missense_variant c.131A>G p.Asn44Ser	MAGIC.stool.459.6_05515	rimI	Ribosomal protein S18 acetylase RimI and related acetyltransferases
+contig_7	39861	snp	C	T	T:57 C:0	CDS	+	588/795	196/264	synonymous_variant c.588C>T p.Ile196Ile	MAGIC.stool.459.6_05960	tagH	teichoic acids export ABC transporter ATP-binding subunit TagH
+contig_7	58671	del	AT	A	A:65 AT:0								
+contig_8	163660	snp	A	G	G:128 A:0	tRNA	-			intragenic_variant n.163660A>G 	MAGIC.stool.459.6_07495	trnL	tRNA-Leu(taa)
+contig_9	79306	snp	C	T	T:66 C:0	CDS	+	230/4317	77/1438	missense_variant c.230C>T p.Thr77Ile	MAGIC.stool.459.6_07875	polC	PolC-type DNA polymerase III
+contig_9	145468	del	CT	C	C:56 CT:0	CDS	-	923/948	308/315	frameshift_variant c.923delA p.Lys308fs	MAGIC.stool.459.6_08170		replication initiation factor domain-containing protein
+contig_10	13812	snp	T	C	C:79 T:0	CDS	-	260/1005	87/334	missense_variant c.260A>G p.Gln87Arg	MAGIC.stool.459.6_08270	qor	NADPH:quinone reductase or related Zn-dependent oxidoreductase
+contig_11	44454	snp	T	C	C:70 T:0	CDS	-	350/1041	117/346	missense_variant c.350A>G p.Gln117Arg	MAGIC.stool.459.6_09150	tdcB	bifunctional threonine ammonia-lyase/L-serine ammonia-lyase TdcB
+contig_17	3873	snp	A	G	G:11 A:0	CDS	+	172/585	58/194	missense_variant c.172A>G p.Asn58Asp	MAGIC.stool.459.6_11755		Phage protein
+contig_17	3925	snp	C	G	G:37 C:0	CDS	+	224/585	75/194	missense_variant c.224C>G p.Ala75Gly	MAGIC.stool.459.6_11755		Phage protein
+contig_18	9121	snp	G	T	T:55 G:0	CDS	+	1504/2799	502/932	missense_variant c.1504G>T p.Ala502Ser	MAGIC.stool.459.6_12090	odhA	2-oxoglutarate dehydrogenase E1 component
+contig_18	11780	snp	C	T	T:91 C:0								
+contig_18	33527	snp	C	T	T:56 C:0								
+contig_19	44438	snp	G	T	T:95 G:0	CDS	+	696/969	232/322	missense_variant c.696G>T p.Leu232Phe	MAGIC.stool.459.6_12550	fecD	ABC-type Fe3+-siderophore transport system, permease component
+contig_20	19308	snp	T	C	C:115 T:0	CDS	+	670/672	224/223	stop_lost&splice_region_variant c.670T>C p.Ter224Glnext*?	MAGIC.stool.459.6_12715		phage baseplate upper protein
+contig_22	13747	snp	A	G	G:84 A:0	CDS	+	331/825	111/274	missense_variant c.331A>G p.Asn111Asp	MAGIC.stool.459.6_13170	purR	pur operon repressor
+contig_27	2509	snp	T	G	G:59 T:0								

@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	46675	ins	T	TA	TA:100 T:1								
+contig_1	384952	snp	T	C	C:89 T:0	CDS	-	1131/1674	377/557	synonymous_variant c.1131A>G p.Thr377Thr	MAGIC.471.G.7_01825	glpD	Aerobic glycerol-3-phosphate dehydrogenase
+contig_3	30959	snp	A	C	C:88 A:0	CDS	-	869/1713	290/570	missense_variant c.869T>G p.Val290Gly	MAGIC.471.G.7_07085	lacE	lactose-specific PTS transporter subunit EIIC
+contig_3	86739	snp	A	G	G:101 A:1	CDS	-	758/765	253/254	missense_variant c.758T>C p.Leu253Ser	MAGIC.471.G.7_07440		Glyoxalase-like domain protein
+contig_3	115934	snp	C	T	T:147 C:0								
+contig_4	110645	del	CTA	C	C:94 CTA:0								
+contig_6	3434	snp	A	C	C:125 A:1	CDS	+	921/933	307/310	synonymous_variant c.921A>C p.Ile307Ile	MAGIC.471.G.7_10845	ybbR	Cyclic di-AMP synthase regulator CdaR, YbbR domain

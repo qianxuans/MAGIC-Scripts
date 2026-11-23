@@ -1,0 +1,19 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	30363	snp	A	C	C:323 A:0	CDS	+	109/849	37/282	synonymous_variant c.109A>C p.Arg37Arg	MAGIC.509.N.5_00120		glycosyltransferase family 2 protein
+contig_3	71987	snp	G	A	A:37 G:0	CDS	+	1929/1938	643/645	synonymous_variant c.1929G>A p.Gly643Gly	MAGIC.509.N.5_03070	geh	glycerol ester hydrolase
+contig_3	219329	snp	A	G	G:333 A:0	CDS	+	736/771	246/256	missense_variant c.736A>G p.Ile246Val	MAGIC.509.N.5_03985	lpl11	Uncharacterized lipoprotein MW0398
+contig_5	28019	snp	T	C	C:292 T:0	CDS	+	175/2106	59/701	missense_variant c.175T>C p.Tyr59His	MAGIC.509.N.5_05435	nrdE	class 1b ribonucleoside-diphosphate reductase subunit alpha
+contig_6	56624	ins	T	TA	TA:302 T:4								
+contig_6	79682	snp	C	T	T:298 C:0	CDS	-	72/1719	24/572	synonymous_variant c.72G>A p.Glu24Glu	MAGIC.509.N.5_06570	ptsI	Phosphoenolpyruvate-protein phosphotransferase
+contig_6	95962	snp	C	T	T:274 C:2	CDS	-	298/672	100/223	missense_variant c.298G>A p.Ala100Thr	MAGIC.509.N.5_06650	purQ	phosphoribosylformylglycinamidine synthase I
+contig_7	50489	snp	C	T	T:261 C:0	CDS	+	231/2292	77/763	synonymous_variant c.231C>T p.Arg77Arg	MAGIC.509.N.5_07290		Putative surface anchored protein
+contig_8	47559	snp	C	T	T:302 C:0	CDS	+	141/639	47/212	synonymous_variant c.141C>T p.Ile47Ile	MAGIC.509.N.5_08105	trmR	tRNA 5-hydroxyU34 O-methylase TrmR/YrrM
+contig_8	119913	snp	A	G	G:229 A:0	CDS	-	267/387	89/128	synonymous_variant c.267T>C p.Asp89Asp	MAGIC.509.N.5_08500	pspE	Rhodanese-related sulfurtransferase
+contig_9	93785	ins	A	AT	AT:235 A:2								
+contig_9	130095	snp	A	G	G:242 A:0	CDS	+	844/1239	282/412	missense_variant c.844A>G p.Thr282Ala	MAGIC.509.N.5_09180	hflX	GTPase HflX
+contig_12	40284	snp	A	G	G:267 A:0								
+contig_12	63917	snp	T	C	C:258 T:0	CDS	-	1056/1611	352/536	synonymous_variant c.1056A>G p.Val352Val	MAGIC.509.N.5_10580	pyrG	CTP synthase
+contig_13	51536	ins	C	CG	CG:229 C:1	ncRNA	-			intergenic_region n.51536_51537insG 	MAGIC.509.N.5_10935	S35	Staphylococcus sRNA 35 (srn_0335)
+contig_13	78317	snp	T	G	G:345 T:0								
+contig_16	19409	snp	C	T	T:237 C:0								
+contig_26	5756	snp	T	C	C:266 T:0	CDS	-	180/996	60/331	synonymous_variant c.180A>G p.Ser60Ser	MAGIC.509.N.5_13370		Sulfate exporter family transporter

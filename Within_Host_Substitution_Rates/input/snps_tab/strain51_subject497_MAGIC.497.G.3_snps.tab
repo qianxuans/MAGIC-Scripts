@@ -1,0 +1,20 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	203338	snp	G	A	A:139 G:0	CDS	+	2380/2631	794/876	missense_variant c.2380G>A p.Ala794Thr	MAGIC.497.N.4_02245	polA	DNA polymerase I
+contig_4	133152	snp	C	A	A:157 C:0	CDS	+	1830/2790	610/929	missense_variant c.1830C>A p.Asn610Lys	MAGIC.497.N.4_03875	hsdR	Type I restriction enzyme SauMRSORF196P endonuclease subunit
+contig_4	176158	snp	G	T	T:148 G:0	CDS	-	410/1563	137/520	missense_variant c.410C>A p.Ser137Tyr	MAGIC.497.N.4_04025	ydiF	Acyl CoA:acetate/3-ketoacid CoA transferase
+contig_5	3456	del	TC	T	T:118 TC:0								
+contig_5	28091	ins	T	TA	TA:129 T:0								
+contig_5	96853	snp	G	A	A:158 G:0	CDS	-	715/819	239/272	missense_variant c.715C>T p.Pro239Ser	MAGIC.497.N.4_04580	fabG	SDR family oxidoreductase
+contig_6	71594	snp	A	C	C:128 A:0	CDS	-	291/507	97/168	synonymous_variant c.291T>G p.Gly97Gly	MAGIC.497.N.4_05375		Cytosolic protein
+contig_6	110438	ins	T	TATCTGA	TATCTGA:91 T:9	CDS	-	2973/3408	991/1135	conservative_inframe_insertion c.2968_2973dupTCAGAT p.Asp991_Ser992insSerAsp	MAGIC.497.N.4_05590	sdrE	MSCRAMM family adhesin SdrE
+contig_7	27671	snp	G	A	A:164 G:0	CDS	-	17/216	6/71	missense_variant c.17C>T p.Ala6Val	MAGIC.497.N.4_05965	tM2	Uncharacterized membrane protein YozV, TM2 domain, contains pTyr
+contig_7	49205	snp	A	G	G:165 A:0	CDS	-	141/291	47/96	synonymous_variant c.141T>C p.Ala47Ala	MAGIC.497.N.4_06060	qoxD	cytochrome aa3 quinol oxidase subunit IV
+contig_7	109634	snp	A	G	G:110 A:0	CDS	-	311/921	104/306	missense_variant c.311T>C p.Phe104Ser	MAGIC.497.N.4_06350	ctaA	Heme A synthase
+contig_7	119405	snp	G	T	T:153 G:0	CDS	-	1420/1959	474/652	missense_variant c.1420C>A p.Gln474Lys	MAGIC.497.N.4_06415	isdB	iron-regulated surface determinant protein B, haemoglobin receptor
+contig_8	108751	snp	G	A	A:132 G:0	CDS	-	657/732	219/243	synonymous_variant c.657C>T p.Gly219Gly	MAGIC.497.N.4_07070	rnc	ribonuclease III
+contig_9	4002	del	TA	T	T:116 TA:0								
+contig_9	109130	snp	G	A	A:153 G:0	CDS	-	593/798	198/265	missense_variant c.593C>T p.Ala198Val	MAGIC.497.N.4_07825	fdhD	formate dehydrogenase accessory sulfurtransferase FdhD
+contig_12	24400	snp	T	C	C:128 T:0	CDS	+	1013/1047	338/348	missense_variant c.1013T>C p.Val338Ala	MAGIC.497.N.4_09400	tsaC	L-threonylcarbamoyladenylate synthase
+contig_15	61458	snp	C	T	T:145 C:0								
+contig_21	39043	snp	G	A	A:31 G:0								
+contig_74	112	snp	T	G	G:218 T:10								

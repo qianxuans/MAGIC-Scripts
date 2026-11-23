@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	883420	mnp	GT	AA	AA:168 GT:0	CDS	-	23588/31899	7863/10632	missense_variant c.23587_23588delACinsTT p.Thr7863Leu	MAGIC.579.N.7_04280	ebh	Extracellular matrix-binding protein ebh
+contig_1	1021095	snp	T	C	C:128 T:0	CDS	-	778/921	260/306	missense_variant c.778A>G p.Thr260Ala	MAGIC.579.N.7_04960	rnz	ribonuclease Z
+contig_2	88230	snp	C	G	G:155 C:0								
+contig_2	205067	del	CTTTA	C	C:106 CTTTA:0	CDS	+	861/912	287/303	frameshift_variant c.861_864delTATT p.Phe287fs	MAGIC.579.N.7_06830	icaC	polysaccharide intercellular adhesin biosynthesis/export protein IcaC
+contig_4	26445	del	CA	C	C:149 CA:0	CDS	-	487/489	163/162	frameshift_variant&stop_lost&splice_region_variant c.487delT p.Ter163fs	MAGIC.579.N.7_10880	agrA	Accessory gene regulator protein A
+contig_50	35	complex	ATCCAGGTAT	TTCCTACAGC	TTCCTACAGC:17 ATCCAGGTAT:0								
+contig_52	86	complex	CAACGTCAGC	GGCGAATTCT	GGCGAATTCT:108 CAACGTCAGC:0								

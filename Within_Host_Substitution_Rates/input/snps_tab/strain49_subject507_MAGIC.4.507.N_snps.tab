@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_5	67914	ins	T	TG	TG:152 T:0	CDS	+	697/978	233/325	frameshift_variant c.696dupG p.Lys233fs	MAGIC.3.507.N_04350	hrcA	heat-inducible transcriptional repressor HrcA
+contig_10	62768	del	TA	T	T:123 TA:10	CDS	+	486/555	162/184	frameshift_variant c.486delA p.Leu164fs	MAGIC.3.507.N_08135		toprim domain-containing protein
+contig_10	62842	snp	T	C	C:148 T:0	CDS	+	553/555	185/184	stop_lost&splice_region_variant c.553T>C p.Ter185Argext*?	MAGIC.3.507.N_08135		toprim domain-containing protein

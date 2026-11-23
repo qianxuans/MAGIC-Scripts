@@ -1,0 +1,7 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	81406	snp	A	G	G:257 A:0								
+contig_2	140024	snp	C	T	T:261 C:1	CDS	-	116/1182	39/393	stop_gained c.116G>A p.Trp39*	MAGIC.486.N.5_02035	ribBA	Riboflavin biosynthesis protein RibBA
+contig_5	55121	snp	C	A	A:233 C:2	CDS	+	1007/1101	336/366	missense_variant c.1007C>A p.Ser336Tyr	MAGIC.486.N.5_04720	yqeH	ribosome biogenesis GTPase YqeH
+contig_7	39033	ins	T	TA	TA:257 T:0	ncRNA	+			non_coding_transcript_variant  	MAGIC.486.N.5_06210	rli28	Listeria sRNA rli28
+contig_18	16265	snp	G	A	A:287 G:0	CDS	-	59/1758	20/585	missense_variant c.59C>T p.Ala20Val	MAGIC.486.N.5_11205	sfaB	staphyloferrin A synthetase SfaB
+contig_20	38763	del	AG	A	A:235 AG:2								

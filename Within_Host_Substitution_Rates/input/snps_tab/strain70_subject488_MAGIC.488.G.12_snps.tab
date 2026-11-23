@@ -1,0 +1,22 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	91822	snp	T	A	A:100 T:0	CDS	+	818/828	273/275	missense_variant c.818T>A p.Val273Glu	MAGIC.488.A.8_00530	pldB	Lysophospholipase, alpha-beta hydrolase superfamily
+contig_1	256604	snp	C	A	A:115 C:0	CDS	+	2305/2478	769/825	missense_variant c.2305C>A p.Gln769Lys	MAGIC.488.A.8_01205	recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)
+contig_1	284281	snp	G	A	A:81 G:0	CDS	+	298/975	100/324	missense_variant c.298G>A p.Glu100Lys	MAGIC.488.A.8_01370	holA	DNA polymerase III subunit delta
+contig_1	292041	snp	G	A	A:94 G:0	CDS	+	1124/1833	375/610	missense_variant c.1124G>A p.Gly375Asp	MAGIC.488.A.8_01405	dnaK	molecular chaperone DnaK
+contig_1	697342	snp	C	T	T:102 C:0	CDS	-	391/876	131/291	missense_variant c.391G>A p.Val131Ile	MAGIC.488.A.8_03215	rsgA	ribosome small subunit-dependent GTPase A
+contig_1	721162	snp	G	A	A:106 G:0	CDS	-	418/1278	140/425	synonymous_variant c.418C>T p.Leu140Leu	MAGIC.488.A.8_03315	pyrC	dihydroorotase
+contig_1	816843	snp	C	T	T:81 C:0								
+contig_2	173462	snp	C	A	A:80 C:0								
+contig_2	308533	snp	A	G	G:110 A:0	CDS	+	710/801	237/266	missense_variant c.710A>G p.Glu237Gly	MAGIC.488.A.8_05680	lpl7	Uncharacterized lipoprotein SAV0443
+contig_2	311858	snp	G	A	A:91 G:0	CDS	+	128/324	43/107	missense_variant c.128G>A p.Arg43His	MAGIC.488.A.8_05700		Cytosolic protein
+contig_3	35355	ins	A	ATTC	ATTC:73 A:0	CDS	-	33/747	11/248	conservative_inframe_insertion c.31_33dupGAA p.Glu11dup	MAGIC.488.A.8_06095	lnsB	CPBP family lipoprotein N-acylation protein LnsB
+contig_3	126030	snp	C	T	T:110 C:0								
+contig_5	45177	snp	T	C	C:99 T:0	CDS	-	1489/2004	497/667	missense_variant c.1489A>G p.Asn497Asp	MAGIC.488.A.8_08990	ligA	NAD-dependent DNA ligase LigA
+contig_6	129331	snp	T	C	C:116 T:0	CDS	-	123/858	41/285	synonymous_variant c.123A>G p.Leu41Leu	MAGIC.488.A.8_10285	hisZ	ATP phosphoribosyltransferase regulatory subunit
+contig_9	14503	snp	A	G	G:105 A:0								
+contig_9	74234	snp	C	T	T:96 C:0	CDS	+	2385/2406	795/801	synonymous_variant c.2385C>T p.Asn795Asn	MAGIC.488.A.8_11745	mnhA1	Na+/H+ antiporter Mnh1 subunit A
+contig_11	7002	snp	C	T	T:116 C:0	CDS	-	367/804	123/267	missense_variant c.367G>A p.Val123Met	MAGIC.488.A.8_12280	coaW	type II pantothenate kinase
+contig_15	4141	mnp	AACC	GGTT	GGTT:224 AACC:0								
+contig_27	181	snp	A	C	C:50 A:0								
+contig_65	66	complex	ACGTCAATAC	CCACCTGTGT	CCACCTGTGT:11 ACGTCAATAC:0								
+contig_84	143	complex	TTGGAATTCC	ACAACGCTCA	ACAACGCTCA:10 TTGGAATTCC:0								

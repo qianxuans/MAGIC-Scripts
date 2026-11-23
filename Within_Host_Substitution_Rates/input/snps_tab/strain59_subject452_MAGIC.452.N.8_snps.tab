@@ -1,0 +1,13 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	344587	snp	T	A	A:150 T:0								
+contig_2	545305	snp	C	A	A:186 C:0	CDS	-	523/852	175/283	stop_gained c.523G>T p.Glu175*	MAGIC.452.N.7_07305	glcT	Protein GlcT
+contig_3	70416	snp	T	C	C:170 T:0	CDS	-	819/1059	273/352	synonymous_variant c.819A>G p.Val273Val	MAGIC.452.N.7_08090	hisC	histidinol-phosphate transaminase
+contig_6	157	ins	A	AT	AT:133 A:0	CDS	-	646/732	216/243	frameshift_variant c.646dupA p.Ile216fs	MAGIC.452.N.7_09730	trkA	Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain
+contig_8	68427	snp	C	A	A:150 C:0	CDS	-	278/636	93/211	missense_variant c.278G>T p.Gly93Val	MAGIC.452.N.7_11120	rex	redox-sensing transcriptional repressor Rex
+contig_9	15488	snp	T	C	C:52 T:0	CDS	+	2205/2904	735/967	synonymous_variant c.2205T>C p.Asp735Asp	MAGIC.452.N.7_11270	sdrC	Ser-Asp rich fibrinogen-binding bone sialoprotein-binding protein
+contig_40	145	complex	TATCTTGTAG	AGCTACTATA	AGCTACTATA:11 TATCTTGTAG:0								
+contig_55	145	complex	TATCTTGTAG	AGCTACTATA	AGCTACTATA:10 TATCTTGTAG:0								
+contig_61	145	complex	TATCTTGTAG	AGCTACTATA	AGCTACTATA:11 TATCTTGTAG:0								
+contig_68	146	complex	AGGTCAGATA	CGTCTCATAT	CGTCTCATAT:11 AGGTCAGATA:0								
+contig_72	66	complex	TATCTGACCT	ATATGAGACG	ATATGAGACG:10 TATCTGACCT:0								
+contig_77	35	complex	AGGTCAGATA	CGTCTCATAT	CGTCTCATAT:12 AGGTCAGATA:0								

@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	210703	snp	C	A	A:22 C:0								
+contig_5	114530	snp	G	T	T:31 G:0	CDS	+	637/690	213/229	missense_variant c.637G>T p.Val213Phe	MAGIC.1.522.N_07115	ulaG	metal-dependent hydrolase
+contig_6	72296	snp	G	A	A:24 G:0	CDS	+	290/1734	97/577	missense_variant c.290G>A p.Gly97Asp	MAGIC.1.522.N_07725	mdlB	ABC-type multidrug transport system, ATPase and permease component

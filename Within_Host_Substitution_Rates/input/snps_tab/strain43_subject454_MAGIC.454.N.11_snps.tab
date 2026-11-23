@@ -1,0 +1,27 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	100465	snp	A	G	G:113 A:0								
+contig_1	162902	ins	G	GA	GA:59 G:0	CDS	-	17/2106	6/701	frameshift_variant c.17dupT p.Asn7fs	MAGIC.454.N.7_00735	clpL	ATP-dependent Clp protease ATP-binding subunit ClpL
+contig_1	308282	snp	C	G	G:77 C:0	CDS	+	523/537	175/178	missense_variant c.523C>G p.Gln175Glu	MAGIC.454.N.7_01435	yhbS	putative N-acetyltransferase YhbS
+contig_1	312052	snp	A	G	G:85 A:0	CDS	+	17/978	6/325	missense_variant c.17A>G p.Tyr6Cys	MAGIC.454.N.7_01455	cobA	Uroporphyrinogen-III methylase (siroheme synthase)
+contig_2	180304	snp	T	G	G:111 T:0	CDS	+	1153/1692	385/563	missense_variant c.1153T>G p.Ser385Ala	MAGIC.454.N.7_02585		Terminase large subunit
+contig_4	86009	snp	G	A	A:100 G:0	CDS	+	1395/1479	465/492	synonymous_variant c.1395G>A p.Ser465Ser	MAGIC.454.N.7_04275	purH	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+contig_5	50858	del	AT	A	A:54 AT:0	CDS	-	473/1758	158/585	frameshift_variant c.473delA p.Asn158fs	MAGIC.454.N.7_04930	blaR1	beta-lactam sensor/signal transducer BlaR1
+contig_5	126702	snp	T	A	A:10 T:0	CDS	-	45/717	15/238	synonymous_variant c.45A>T p.Ile15Ile	MAGIC.454.N.7_05300		Serine protease
+contig_5	152066	snp	T	C	C:88 T:0	CDS	-	2300/2937	767/978	missense_variant c.2300A>G p.Glu767Gly	MAGIC.454.N.7_05485	yhaN	Uncharacterized conserved protein YhaN, contains AAA domain
+contig_6	77396	snp	T	C	C:97 T:0	CDS	-	147/270	49/89	synonymous_variant c.147A>G p.Leu49Leu	MAGIC.454.N.7_06120		Phage protein
+contig_7	79722	snp	T	G	G:82 T:0	CDS	+	381/2955	127/984	stop_gained c.381T>G p.Tyr127*	MAGIC.454.N.7_06930	fdhF	formate dehydrogenase subunit alpha
+contig_7	99605	snp	T	C	C:84 T:0	CDS	-	133/453	45/150	missense_variant c.133A>G p.Thr45Ala	MAGIC.454.N.7_07035	ureE	urease accessory protein UreE
+contig_9	29881	snp	A	C	C:80 A:0	CDS	-	1397/1560	466/519	missense_variant c.1397T>G p.Val466Gly	MAGIC.454.N.7_08250	rny	ribonuclease Y
+contig_9	52665	snp	G	T	T:79 G:0	CDS	-	143/318	48/105	missense_variant c.143C>A p.Thr48Lys	MAGIC.454.N.7_08340	ylxQ	YlxQ family RNA-binding protein
+contig_12	731	snp	A	G	G:72 A:0								
+contig_20	13145	snp	G	A	A:89 G:0	CDS	+	516/1215	172/404	synonymous_variant c.516G>A p.Thr172Thr	MAGIC.454.N.7_11845	dltB	PG:teichoic acid D-alanyltransferase DltB
+contig_24	8680	snp	A	G	G:69 A:0	CDS	-	1231/1407	411/468	missense_variant c.1231T>C p.Phe411Leu	MAGIC.454.N.7_12715	ftsA	cell division protein FtsA
+contig_80	146	complex	ATTCCATAAG	GACGAGATTA	GACGAGATTA:12 ATTCCATAAG:0								
+contig_81	67	complex	CTTATGGAAT	TAATCTCGTC	TAATCTCGTC:13 CTTATGGAAT:0								
+contig_85	68	complex	TGCCTGGTGG	ACATTATCCT	ACATTATCCT:10 TGCCTGGTGG:0								
+contig_92	145	complex	CCACCAGGCA	AGGATAATGT	AGGATAATGT:13 CCACCAGGCA:0								
+contig_98	66	complex	CTTATGGAAT	TAATCTCGTC	TAATCTCGTC:12 CTTATGGAAT:0								
+contig_108	66	complex	CTTATGGAAT	TAATCTCGTC	TAATCTCGTC:12 CTTATGGAAT:0								
+contig_114	66	complex	CTTATGGAAT	TAATCTCGTC	TAATCTCGTC:12 CTTATGGAAT:0								
+contig_130	112	snp	T	G	G:182 T:15								
+contig_149	74	complex	ATTCCATAAG	GACGAGATTA	GACGAGATTA:23 ATTCCATAAG:0								

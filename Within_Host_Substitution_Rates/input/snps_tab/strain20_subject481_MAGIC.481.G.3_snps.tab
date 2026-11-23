@@ -1,0 +1,12 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	71856	snp	T	A	A:182 T:0	CDS	-	150/1542	50/513	missense_variant c.150A>T p.Lys50Asn	MAGIC.stool.481.12_00365		GMP synthase [glutamine-hydrolyzing]
+contig_1	301079	snp	T	C	C:181 T:0	CDS	+	122/495	41/164	missense_variant c.122T>C p.Met41Thr	MAGIC.stool.481.12_01440	yagU	DUF1440 domain-containing protein
+contig_2	190368	snp	T	C	C:177 T:0	CDS	-	683/1278	228/425	missense_variant c.683A>G p.His228Arg	MAGIC.stool.481.12_03035	yhgE	Uncharacterized membrane protein YhgE, phage infection protein (PIP) family
+contig_3	2189	snp	T	C	C:177 T:0								
+contig_3	199289	snp	G	T	T:163 G:0	CDS	-	366/888	122/295	synonymous_variant c.366C>A p.Ile122Ile	MAGIC.stool.481.12_04650	fepB	ABC-type Fe3+-hydroxamate transport system, periplasmic component
+contig_3	265379	ins	C	CT	CT:160 C:0								
+contig_3	268029	snp	G	T	T:184 G:0	CDS	+	271/618	91/205	missense_variant c.271G>T p.Ala91Ser	MAGIC.stool.481.12_05000	dck	Deoxyadenosine/deoxycytidine kinase
+contig_4	164507	snp	C	G	G:176 C:0	CDS	-	548/948	183/315	missense_variant c.548G>C p.Arg183Pro	MAGIC.stool.481.12_05985	ytxK	Adenine-specific DNA N6-methylase
+contig_5	48023	snp	T	A	A:179 T:0	CDS	-	13/669	5/222	missense_variant c.13A>T p.Ile5Leu	MAGIC.stool.481.12_06570	yggS	Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family
+contig_5	113242	snp	G	A	A:161 G:0								
+contig_7	29115	snp	G	T	T:166 G:0								

@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	345394	snp	A	T	T:161 A:0	CDS	+	1418/1995	473/664	missense_variant c.1418A>T p.Glu473Val	MAGIC.599.N.4_06350	pknB	serine/threonine protein kinase Stk1
+contig_14	3339	snp	A	G	G:213 A:0	CDS	+	1217/4113	406/1370	missense_variant c.1217A>G p.Asn406Ser	MAGIC.599.N.4_13425		ATP-binding protein
+contig_57	35	complex	TCC	GA	GA:31 TCC:0								
+contig_57	43	complex	CT	TAA	TAA:28 CT:0								

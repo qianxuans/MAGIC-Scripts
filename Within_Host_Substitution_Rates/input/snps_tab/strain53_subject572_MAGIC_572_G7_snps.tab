@@ -1,0 +1,6 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	113648	snp	T	G	G:38 T:0	CDS	+	947/1080	316/359	missense_variant c.947T>G p.Ile316Ser	MAGIC.572.N.7_00500	ykvI	Uncharacterized membrane protein YkvI
+contig_1	344745	snp	A	C	C:46 A:0								
+contig_3	186747	snp	A	C	C:40 A:0	CDS	-	560/627	187/208	missense_variant c.560T>G p.Val187Gly	MAGIC.572.N.7_06555		Tandem five-TM protein
+contig_4	52083	snp	A	C	C:40 A:0	CDS	+	778/1026	260/341	missense_variant c.778A>C p.Ile260Leu	MAGIC.572.N.7_07245	queA	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+contig_8	69843	snp	C	A	A:44 C:0	CDS	+	186/1902	62/633	missense_variant c.186C>A p.Asp62Glu	MAGIC.572.N.7_11020		SGNH/GDSL hydrolase family protein

@@ -1,0 +1,3 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_5	84126	snp	C	T	T:68 C:0	CDS	-	790/1152	264/383	missense_variant c.790G>A p.Ala264Thr	MAGIC.535.N.2_09445	pabB	Anthranilate/para-aminobenzoate synthases component I
+contig_7	51907	snp	C	T	T:96 C:0								

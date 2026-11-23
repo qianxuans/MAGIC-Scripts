@@ -1,0 +1,7 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	267415	snp	A	G	G:26 A:0								
+contig_1	313426	snp	C	A	A:33 C:0	CDS	+	471/969	157/322	stop_gained c.471C>A p.Tyr157*	MAGIC.503.N.6_01385	aes	Acetyl esterase/lipase
+contig_2	315777	snp	T	C	C:26 T:0	CDS	-	1720/3198	574/1065	missense_variant c.1720A>G p.Thr574Ala	MAGIC.503.N.6_04010	dnaE	DNA polymerase III subunit alpha
+contig_4	238478	del	GATC	G	G:20 GATC:0	CDS	-	441/876	147/291	conservative_inframe_deletion c.439_441delGAT p.Asp147del	MAGIC.503.N.6_07520	rsgA	ribosome small subunit-dependent GTPase A
+contig_6	103989	del	CT	C	C:26 CT:0	CDS	-	219/285	73/94	frameshift_variant c.219delA p.Ala74fs	MAGIC.503.N.6_09540		Transcriptional terminator
+contig_9	66521	del	GT	G	G:29 GT:0								

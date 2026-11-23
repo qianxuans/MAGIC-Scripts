@@ -1,0 +1,17 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	16043	snp	G	A	A:179 G:0								
+contig_1	106122	snp	C	G	G:232 C:0								
+contig_1	190881	snp	T	C	C:241 T:0	CDS	-	1652/3516	551/1171	missense_variant c.1652A>G p.Glu551Gly	MAGIC.558.N.5_00775	era	GTPase Era, involved in 16S rRNA processing
+contig_1	484627	snp	T	C	C:192 T:0								
+contig_2	141395	snp	A	G	G:60 A:0	ncRNA	+			intragenic_variant n.141395A>G 	MAGIC.558.N.5_03275	S35	Staphylococcus sRNA 35 (srn_0335)
+contig_2	190210	snp	G	T	T:198 G:0	CDS	+	991/1245	331/414	missense_variant c.991G>T p.Gly331Cys	MAGIC.558.N.5_03535	gluD	NAD-specific glutamate dehydrogenase
+contig_2	349182	snp	T	C	C:219 T:0	CDS	+	134/828	45/275	missense_variant c.134T>C p.Ile45Thr	MAGIC.558.N.5_04315	suhB	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family
+contig_3	173521	snp	T	C	C:271 T:0	CDS	+	262/903	88/300	missense_variant c.262T>C p.Phe88Leu	MAGIC.558.N.5_05795		Surface antigen
+contig_3	174622	snp	G	A	A:259 G:0	CDS	+	130/1524	44/507	missense_variant c.130G>A p.Ala44Thr	MAGIC.558.N.5_05800		DUF6583 domain-containing protein
+contig_3	294168	snp	A	G	G:212 A:0								
+contig_4	111370	snp	A	G	G:258 A:0								
+contig_5	82301	snp	T	C	C:213 T:0								
+contig_5	113348	ins	A	AATTT	AATTT:187 A:0								
+contig_5	144537	snp	A	C	C:285 A:0	CDS	-	2103/3552	701/1183	missense_variant c.2103T>G p.Asp701Glu	MAGIC.558.N.5_08420	rpoB	DNA-directed RNA polymerase subunit beta
+contig_7	121228	snp	C	T	T:257 C:0	CDS	+	72/654	24/217	synonymous_variant c.72C>T p.Ala24Ala	MAGIC.558.N.5_10130	rpsC	30S ribosomal protein S3
+contig_54	112	snp	T	G	G:389 T:25								

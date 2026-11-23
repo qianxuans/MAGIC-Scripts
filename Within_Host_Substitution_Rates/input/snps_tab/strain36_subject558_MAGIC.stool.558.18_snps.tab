@@ -1,0 +1,23 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	338941	snp	G	A	A:117 G:0	CDS	-	682/807	228/268	missense_variant c.682C>T p.His228Tyr	MAGIC.558.N.5_01535	aroE	Shikimate dehydrogenase (NADP(+))
+contig_2	217655	snp	C	T	T:125 C:0	CDS	-	3/870	1/289	initiator_codon_variant c.3G>A p.Met1?	MAGIC.558.N.5_03640	lysR	DNA-binding transcriptional regulator, LysR family
+contig_2	349182	snp	T	C	C:155 T:0	CDS	+	134/828	45/275	missense_variant c.134T>C p.Ile45Thr	MAGIC.558.N.5_04315	suhB	Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family
+contig_2	463279	snp	C	T	T:134 C:0	CDS	+	59/744	20/247	missense_variant c.59C>T p.Ala20Val	MAGIC.558.N.5_04860	pTC1	protein-serine/threonine phosphatase Stp1
+contig_3	173521	snp	T	C	C:231 T:0	CDS	+	262/903	88/300	missense_variant c.262T>C p.Phe88Leu	MAGIC.558.N.5_05795		Surface antigen
+contig_3	174622	snp	G	A	A:138 G:0	CDS	+	130/1524	44/507	missense_variant c.130G>A p.Ala44Thr	MAGIC.558.N.5_05800		DUF6583 domain-containing protein
+contig_3	188467	snp	C	T	T:31 C:0	ncRNA	+			intergenic_region n.188467C>T 	MAGIC.558.N.5_05865	S35	Staphylococcus sRNA 35 (srn_0335)
+contig_3	217662	snp	G	A	A:171 G:0								
+contig_3	227716	del	GT	G	G:149 GT:1								
+contig_3	281921	snp	G	A	A:202 G:0	CDS	+	722/2046	241/681	missense_variant c.722G>A p.Gly241Asp	MAGIC.558.N.5_06230	ptsG	PTS system glucose-specific EIICBA component
+contig_3	404190	snp	T	C	C:158 T:0								
+contig_4	22009	snp	C	T	T:138 C:0	CDS	-	400/1239	134/412	missense_variant c.400G>A p.Asp134Asn	MAGIC.558.N.5_06915	icaA	N-acetylglucosaminyltransferase, involved in polysaccharide intercellular adhesin(PIA) synthesis
+contig_4	111370	snp	A	G	G:161 A:2								
+contig_5	113348	ins	A	AATTT	AATTT:84 A:0								
+contig_5	144537	snp	A	C	C:172 A:0	CDS	-	2103/3552	701/1183	missense_variant c.2103T>G p.Asp701Glu	MAGIC.558.N.5_08420	rpoB	DNA-directed RNA polymerase subunit beta
+contig_7	121228	snp	C	T	T:182 C:0	CDS	+	72/654	24/217	synonymous_variant c.72C>T p.Ala24Ala	MAGIC.558.N.5_10130	rpsC	30S ribosomal protein S3
+contig_7	126633	snp	G	T	T:125 G:0	CDS	+	259/441	87/146	missense_variant c.259G>T p.Asp87Tyr	MAGIC.558.N.5_10195	rplO	50S ribosomal protein L15
+contig_8	88299	snp	A	G	G:146 A:0	CDS	-	507/600	169/199	synonymous_variant c.507T>C p.His169His	MAGIC.558.N.5_10690	ydeI	DUF1801 domain-containing protein
+contig_12	7523	del	TA	T	T:91 TA:0								
+contig_54	112	snp	T	G	G:535 T:7								
+contig_56	114	complex	GATTGTCATA	CAGTATCAAT	CAGTATCAAT:109 GATTGTCATA:0								
+contig_58	101	complex	TATGACAATC	ATTGATACTG	ATTGATACTG:41 TATGACAATC:0								

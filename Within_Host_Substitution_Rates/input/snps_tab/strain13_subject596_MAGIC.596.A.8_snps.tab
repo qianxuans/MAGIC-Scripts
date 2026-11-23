@@ -1,0 +1,9 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	300750	snp	C	G	G:219 C:0								
+contig_2	291550	snp	C	G	G:289 C:0	CDS	-	534/1545	178/514	missense_variant c.534G>C p.Trp178Cys	MAGIC.596.N.3_05670		DNA-binding protein
+contig_2	331868	snp	C	T	T:293 C:0	CDS	-	1301/1398	434/465	missense_variant c.1301G>A p.Ser434Asn	MAGIC.596.N.3_05850	norG	HTH-type transcriptional regulator NorG
+contig_3	171371	snp	C	T	T:259 C:0								
+contig_51	91	complex	ATTAAGGTG	TCTCGTGAA	TCTCGTGAA:92 ATTAAGGTG:0								
+contig_52	73	complex	CACCTTAAT	TTCACGAGA	TTCACGAGA:74 CACCTTAAT:0								
+contig_54	66	ins	G	GAGTAACA	GAGTAACA:98 G:0								
+contig_54	70	del	TATCCTAA	T	T:99 TATCCTAA:0								

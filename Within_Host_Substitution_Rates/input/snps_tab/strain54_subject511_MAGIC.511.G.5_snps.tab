@@ -1,0 +1,6 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_3	7192	snp	T	C	C:301 T:0	CDS	+	656/1011	219/336	missense_variant c.656T>C p.Ile219Thr	MAGIC.511.N.6_06845	mcsB	protein arginine kinase
+contig_3	388658	snp	G	A	A:283 G:0	CDS	+	1761/2610	587/869	synonymous_variant c.1761G>A p.Ala587Ala	MAGIC.511.N.6_08695	clpB	ATP-dependent chaperone ClpB
+contig_4	168164	snp	C	T	T:297 C:0	CDS	+	71/537	24/178	missense_variant c.71C>T p.Ala24Val	MAGIC.511.N.6_09800	rplF	50S ribosomal protein L6
+contig_7	71444	snp	T	C	C:274 T:0	CDS	-	200/444	67/147	missense_variant c.200A>G p.Glu67Gly	MAGIC.511.N.6_12525	dps	DNA-binding ferritin-like protein (oxidative damage protectant)
+contig_32	112	snp	T	G	G:499 T:16								

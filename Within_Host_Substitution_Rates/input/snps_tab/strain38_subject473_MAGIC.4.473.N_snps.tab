@@ -1,0 +1,15 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	226583	snp	A	G	G:160 A:0	CDS	-	833/1020	278/339	missense_variant c.833T>C p.Met278Thr	MAGIC.5.473.N_00955	purR	DNA-binding transcriptional regulator, LacI/PurR family
+contig_2	240479	snp	A	T	T:168 A:0	CDS	+	251/1407	84/468	missense_variant c.251A>T p.Glu84Val	MAGIC.5.473.N_03470	ftsA	cell division protein FtsA
+contig_3	192	ins	A	AT	AT:194 A:1								
+contig_3	16821	snp	A	C	C:220 A:0	CDS	+	86/732	29/243	missense_variant c.86A>C p.Glu29Ala	MAGIC.5.473.N_04110		Demethylmenaquinone methyltransferase
+contig_6	118915	snp	A	G	G:181 A:0								
+contig_7	60419	snp	A	C	C:228 A:0								
+contig_9	40087	snp	C	A	A:214 C:0	CDS	-	148/234	50/77	missense_variant c.148G>T p.Val50Phe	MAGIC.5.473.N_08365	ywzB	Uncharacterized membrane protein YwzB
+contig_10	22138	snp	T	C	C:209 T:0	CDS	-	1118/3681	373/1226	missense_variant c.1118A>G p.Lys373Arg	MAGIC.5.473.N_08685		Peptidase S74 domain-containing protein
+contig_11	58160	snp	A	G	G:208 A:0	CDS	+	590/729	197/242	missense_variant c.590A>G p.Asp197Gly	MAGIC.5.473.N_09315	treR	trehalose operon repressor
+contig_14	21280	snp	A	G	G:106 A:0								
+contig_15	36078	snp	G	C	C:227 G:0	CDS	+	187/330	63/109	missense_variant c.187G>C p.Ala63Pro	MAGIC.5.473.N_10375	azlD2	Branched-chain amino acid transport protein
+contig_18	39546	snp	G	A	A:169 G:0	tmRNA	+			intergenic_region n.39546G>A 	MAGIC.5.473.N_11110	ssrA	transfer-messenger RNA, SsrA
+contig_25	10526	snp	T	C	C:244 T:0	CDS	+	1492/1929	498/642	missense_variant c.1492T>C p.Phe498Leu	MAGIC.5.473.N_12375	abc-f	ABC-F type ribosomal protection protein
+contig_26	12551	snp	A	G	G:236 A:0	CDS	+	642/2097	214/698	synonymous_variant c.642A>G p.Leu214Leu	MAGIC.5.473.N_12500	bglG	Transcriptional antiterminator

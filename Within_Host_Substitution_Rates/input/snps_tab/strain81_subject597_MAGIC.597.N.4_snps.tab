@@ -1,0 +1,6 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	109747	snp	G	T	T:223 G:0	CDS	+	419/705	140/234	missense_variant c.419G>T p.Arg140Leu	MAGIC.597.G.4_02000	ompR	DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain
+contig_4	102161	snp	T	C	C:231 T:0	CDS	+	148/987	50/328	synonymous_variant c.148T>C p.Leu50Leu	MAGIC.597.G.4_04785	fepD	ABC-type Fe3+-siderophore transport system, permease component
+contig_8	40005	snp	G	T	T:219 G:0								
+contig_19	16522	snp	C	T	T:215 C:0	CDS	+	140/192	47/63	missense_variant c.140C>T p.Ala47Val	MAGIC.597.G.4_12755		XRE family transcriptional regulator
+contig_56	85	complex	AACTCGGTT	TCTAACCTC	TCTAACCTC:55 AACTCGGTT:0								

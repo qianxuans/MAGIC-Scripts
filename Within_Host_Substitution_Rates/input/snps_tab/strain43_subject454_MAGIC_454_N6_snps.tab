@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	180304	snp	T	G	G:22 T:0	CDS	+	1153/1692	385/563	missense_variant c.1153T>G p.Ser385Ala	MAGIC.454.N.7_02585		Terminase large subunit
+contig_6	116330	snp	C	T	T:30 C:0	CDS	-	1741/4419	581/1472	missense_variant c.1741G>A p.Glu581Lys	MAGIC.454.N.7_06300	sdrD	MSCRAMM family adhesin SdrD
+contig_9	29881	snp	A	C	C:25 A:0	CDS	-	1397/1560	466/519	missense_variant c.1397T>G p.Val466Gly	MAGIC.454.N.7_08250	rny	ribonuclease Y
+contig_12	731	snp	A	G	G:23 A:0								

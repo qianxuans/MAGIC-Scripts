@@ -1,0 +1,7 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	226583	snp	A	G	G:171 A:0	CDS	-	833/1020	278/339	missense_variant c.833T>C p.Met278Thr	MAGIC.5.473.N_00955	purR	DNA-binding transcriptional regulator, LacI/PurR family
+contig_3	16821	snp	A	C	C:191 A:0	CDS	+	86/732	29/243	missense_variant c.86A>C p.Glu29Ala	MAGIC.5.473.N_04110		Demethylmenaquinone methyltransferase
+contig_6	118915	snp	A	G	G:158 A:0								
+contig_11	58160	snp	A	G	G:176 A:0	CDS	+	590/729	197/242	missense_variant c.590A>G p.Asp197Gly	MAGIC.5.473.N_09315	treR	trehalose operon repressor
+contig_15	36078	snp	G	C	C:149 G:0	CDS	+	187/330	63/109	missense_variant c.187G>C p.Ala63Pro	MAGIC.5.473.N_10375	azlD2	Branched-chain amino acid transport protein
+contig_26	12551	snp	A	G	G:167 A:3	CDS	+	642/2097	214/698	synonymous_variant c.642A>G p.Leu214Leu	MAGIC.5.473.N_12500	bglG	Transcriptional antiterminator

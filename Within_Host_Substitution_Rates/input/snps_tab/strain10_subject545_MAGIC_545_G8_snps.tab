@@ -1,0 +1,6 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	300403	snp	A	G	G:32 A:0	CDS	+	95/687	32/228	missense_variant c.95A>G p.Tyr32Cys	MAGIC.stool.545.6_01455	nuc	Thermonuclease
+contig_2	264856	snp	C	A	A:40 C:0	CDS	-	865/1488	289/495	missense_variant c.865G>T p.Val289Leu	MAGIC.stool.545.6_05555	aldA	Putative aldehyde dehydrogenase AldA
+contig_3	204548	snp	T	C	C:45 T:0								
+contig_5	106468	snp	C	T	T:24 C:0	CDS	-	625/1662	209/553	missense_variant c.625G>A p.Val209Ile	MAGIC.stool.545.6_10455	ymfN	Phage terminase-like protein, large subunit, contains N-terminal HTH domain
+contig_7	87247	snp	C	T	T:33 C:0								

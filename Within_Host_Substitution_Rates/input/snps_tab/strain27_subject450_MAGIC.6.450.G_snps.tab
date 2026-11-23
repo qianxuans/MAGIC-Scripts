@@ -1,0 +1,21 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	317831	snp	A	T	T:130 A:0	CDS	+	9069/31644	3023/10547	missense_variant c.9069A>T p.Glu3023Asp	MAGIC.450.N.10_01465		hyperosmolarity resistance protein Ebh
+contig_1	365819	snp	T	C	C:200 T:0	CDS	+	1846/1887	616/628	missense_variant c.1846T>C p.Phe616Leu	MAGIC.450.N.10_01615	norD	Nitric oxide reductase activation protein
+contig_1	424391	snp	T	C	C:163 T:0	CDS	-	1232/1992	411/663	missense_variant c.1232A>G p.Asp411Gly	MAGIC.450.N.10_01885	parE	DNA topoisomerase IV subunit B
+contig_1	620138	snp	C	T	T:157 C:0	CDS	-	482/1350	161/449	missense_variant c.482G>A p.Gly161Asp	MAGIC.450.N.10_02775	murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+contig_1	681383	snp	C	T	T:162 C:0	CDS	-	119/435	40/144	missense_variant c.119G>A p.Gly40Asp	MAGIC.450.N.10_03100	ylbF	DUF963 domain-containing protein
+contig_1	696234	snp	C	T	T:174 C:0	CDS	+	435/615	145/204	synonymous_variant c.435C>T p.Ile145Ile	MAGIC.450.N.10_03165	yktB	UPF0637 protein SAR1080
+contig_1	806560	del	GGGGATGGGAGA	G	G:138 GGGGATGGGAGA:0	ncRNA	-			intragenic_variant n.806561_806571delGGGATGGGAGA 	MAGIC.450.N.10_03730	rsaE	RNA Staph. aureus E (RoxS)
+contig_1	825446	snp	C	T	T:158 C:0	CDS	-	468/1245	156/414	synonymous_variant c.468G>A p.Gly156Gly	MAGIC.450.N.10_03815	fabF	beta-ketoacyl-ACP synthase II
+contig_1	880006	snp	A	C	C:168 A:0	CDS	-	700/1176	234/391	missense_variant c.700T>G p.Ser234Ala	MAGIC.450.N.10_04060	dltD	D-alanyl-lipoteichoic acid biosynthesis protein DltD
+contig_1	914087	snp	G	A	A:231 G:0								
+contig_1	928896	snp	A	T	T:177 A:0	CDS	-	321/849	107/282	synonymous_variant c.321T>A p.Val107Val	MAGIC.450.N.10_04345		Class I SAM-dependent methyltransferase
+contig_1	1124572	snp	C	T	T:199 C:1	CDS	-	48/720	16/239	synonymous_variant c.48G>A p.Thr16Thr	MAGIC.450.N.10_05340	yigB	FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis)
+contig_2	12049	del	GA	G	G:197 GA:0								
+contig_3	133852	snp	A	G	G:207 A:2	CDS	-	1051/1605	351/534	missense_variant c.1051T>C p.Tyr351His	MAGIC.450.N.10_08865	ptsG2	Phosphotransferase system IIB components
+contig_3	303728	complex	GAAT	AAAC	AAAC:33 GAAT:0	CDS	-	474/816	157/271	synonymous_variant c.471_474delATTCinsGTTT p.159	MAGIC.450.N.10_09670		Uncharacterized lipoprotein SAS2373
+contig_4	24416	snp	C	T	T:182 C:0	CDS	+	802/1485	268/494	synonymous_variant c.802C>T p.Leu268Leu	MAGIC.450.N.10_10160	sacC	Sucrose-6-phosphate hydrolase SacC, GH32 family
+contig_4	71953	snp	T	C	C:192 T:0	CDS	+	812/1248	271/415	missense_variant c.812T>C p.Val271Ala	MAGIC.450.N.10_10510		phage major capsid protein
+contig_4	89742	snp	T	C	C:241 T:0								
+contig_6	75705	snp	T	C	C:185 T:0								
+contig_7	28265	snp	A	T	T:191 A:0	CDS	+	787/1485	263/494	missense_variant c.787A>T p.Ile263Phe	MAGIC.450.N.10_12580	cls	cardiolipin synthase

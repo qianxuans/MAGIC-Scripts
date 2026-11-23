@@ -1,0 +1,6 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	380	snp	G	A	A:217 G:0	CDS	-	342/552	114/183	synonymous_variant c.342C>T p.Val114Val	MAGIC.511.N.6_03605	def	peptide deformylase
+contig_4	168164	snp	C	T	T:305 C:0	CDS	+	71/537	24/178	missense_variant c.71C>T p.Ala24Val	MAGIC.511.N.6_09800	rplF	50S ribosomal protein L6
+contig_6	22090	snp	G	A	A:312 G:1	CDS	+	2580/2937	860/978	synonymous_variant c.2580G>A p.Lys860Lys	MAGIC.511.N.6_11435	yhaN	Uncharacterized conserved protein YhaN, contains AAA domain
+contig_9	15613	del	GT	G	G:190 GT:0								
+contig_32	112	snp	T	G	G:416 T:11								

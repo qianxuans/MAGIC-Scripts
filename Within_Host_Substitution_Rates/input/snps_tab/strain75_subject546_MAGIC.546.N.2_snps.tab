@@ -1,0 +1,2 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_30	14871	snp	G	T	T:238 G:0	CDS	+	944/1287	315/428	missense_variant c.944G>T p.Ser315Ile	MAGIC.546.G.2_13180	aspB	Aspartate/methionine/tyrosine aminotransferase

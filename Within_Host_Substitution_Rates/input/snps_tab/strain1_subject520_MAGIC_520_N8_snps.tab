@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	149818	snp	T	G	G:11 T:0	CDS	+	603/1044	201/347	missense_variant c.603T>G p.Phe201Leu	MAGIC.520.G.5_00715	aes	Acetyl esterase/lipase
+contig_1	929118	snp	G	A	A:24 G:0	CDS	-	3160/3441	1054/1146	stop_gained c.3160C>T p.Gln1054*	MAGIC.520.G.5_04425	era	GTPase Era, involved in 16S rRNA processing
+contig_1	1205828	snp	C	T	T:22 C:0	CDS	+	88/603	30/200	missense_variant c.88C>T p.Pro30Ser	MAGIC.520.G.5_05770	rpsD	30S ribosomal protein S4

@@ -1,0 +1,8 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	209818	snp	C	T	T:142 C:0	CDS	+	538/594	180/197	stop_gained c.538C>T p.Arg180*	MAGIC.582.N.5_01030	pabA	Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase)
+contig_1	210879	snp	C	T	T:135 C:1	CDS	+	1022/1152	341/383	missense_variant c.1022C>T p.Pro341Leu	MAGIC.582.N.5_01035	pabB	Anthranilate/para-aminobenzoate synthases component I
+contig_1	225348	snp	T	C	C:190 T:0								
+contig_2	550050	snp	C	G	G:136 C:0	CDS	-	120/1308	40/435	missense_variant c.120G>C p.Met40Ile	MAGIC.582.N.5_05625	brnQ	branched-chain amino acid transport system II carrier protein
+contig_4	109413	snp	C	T	T:200 C:1	CDS	-	1363/1398	455/465	missense_variant c.1363G>A p.Gly455Ser	MAGIC.582.N.5_09255	nhaC	Na+/H+ antiporter NhaC
+contig_4	248913	snp	T	C	C:142 T:0	ncRNA	+			intergenic_region n.248913T>C 	MAGIC.582.N.5_09920	S35	Staphylococcus sRNA 35 (srn_0335)
+contig_35	117	complex	ACCAAGTTAC	GTTGGACCGT	GTTGGACCGT:99 ACCAAGTTAC:0								

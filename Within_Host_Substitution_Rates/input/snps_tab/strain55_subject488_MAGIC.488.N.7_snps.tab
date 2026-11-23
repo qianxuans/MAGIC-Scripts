@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	296129	snp	G	A	A:118 G:0	CDS	+	127/753	43/250	missense_variant c.127G>A p.Val43Ile	MAGIC.488.G.7.SC1_05120		Putative membrane spanning protein
+contig_2	386626	snp	G	A	A:120 G:0	CDS	-	20/966	7/321	missense_variant c.20C>T p.Thr7Ile	MAGIC.488.G.7.SC1_05575	wcaG	Uncharacterized epimerase/dehydratase SACOL0599
+contig_3	376822	del	AT	A	A:93 AT:0								

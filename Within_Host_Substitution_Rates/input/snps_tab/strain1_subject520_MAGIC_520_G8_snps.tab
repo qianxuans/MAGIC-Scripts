@@ -1,0 +1,5 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	683571	snp	G	T	T:37 G:1								
+contig_1	859504	snp	C	T	T:29 C:0								
+contig_1	1156935	snp	C	T	T:33 C:0	CDS	-	1923/1938	641/645	synonymous_variant c.1923G>A p.Leu641Leu	MAGIC.520.G.5_05580	thrS	threonine--tRNA ligase
+contig_2	114625	snp	G	T	T:51 G:0								

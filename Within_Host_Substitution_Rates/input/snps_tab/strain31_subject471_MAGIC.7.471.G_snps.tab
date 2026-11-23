@@ -1,0 +1,2 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_6	3434	snp	A	C	C:137 A:0	CDS	+	921/933	307/310	synonymous_variant c.921A>C p.Ile307Ile	MAGIC.471.G.7_10845	ybbR	Cyclic di-AMP synthase regulator CdaR, YbbR domain

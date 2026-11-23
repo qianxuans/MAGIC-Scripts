@@ -1,0 +1,4 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_2	461120	snp	G	C	C:194 G:0								
+contig_11	6065	snp	T	A	A:248 T:0	CDS	+	554/888	185/295	missense_variant c.554T>A p.Val185Glu	MAGIC.519.N.3_10650	nsaS	nisin susceptibility-associated two-component system sensor histidine kinase NsaS
+contig_14	38160	snp	C	T	T:271 C:0	CDS	+	335/1380	112/459	missense_variant c.335C>T p.Pro112Leu	MAGIC.519.N.3_11705	mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE

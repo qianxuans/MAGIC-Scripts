@@ -1,0 +1,32 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	190589	snp	A	T	T:198 A:0	CDS	-	58/270	20/89	missense_variant c.58T>A p.Tyr20Asn	MAGIC.535.G.2_00750	rpsN	30S ribosomal protein S14
+contig_1	272908	snp	T	C	C:228 T:0	CDS	-	1668/4317	556/1438	synonymous_variant c.1668A>G p.Lys556Lys	MAGIC.535.G.2_01155	polC	PolC-type DNA polymerase III
+contig_1	332709	snp	C	T	T:186 C:0								
+contig_1	347134	snp	G	A	A:221 G:0	CDS	-	803/1278	268/425	missense_variant c.803C>T p.Pro268Leu	MAGIC.535.G.2_01480	pyrC	dihydroorotase
+contig_1	634808	snp	T	C	C:214 T:0	CDS	-	609/1068	203/355	synonymous_variant c.609A>G p.Pro203Pro	MAGIC.535.G.2_02885	yrpB	putative nitronate monooxygenase
+contig_1	669529	snp	T	G	G:228 T:0								
+contig_1	690368	del	AT	A	A:271 AT:0	CDS	-	1100/1824	367/607	frameshift_variant c.1100delA p.Asn367fs	MAGIC.535.G.2_03235	bppU	BppU N-terminal domain-containing protein
+contig_2	218205	snp	T	C	C:170 T:0	CDS	-	183/717	61/238	synonymous_variant c.183A>G p.Thr61Thr	MAGIC.535.G.2_04560	tarI2	Ribitol-5-phosphate cytidylyltransferase 2
+contig_2	276174	snp	C	A	A:218 C:0	CDS	-	262/1434	88/477	stop_gained c.262G>T p.Glu88*	MAGIC.535.G.2_04780	dppB	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+contig_2	377606	snp	A	G	G:226 A:0	CDS	-	903/981	301/326	synonymous_variant c.903T>C p.Gly301Gly	MAGIC.535.G.2_05200	sbnA	2,3-diaminopropionate biosynthesis protein SbnA
+contig_2	441905	snp	T	C	C:233 T:0	CDS	-	76/2664	26/887	missense_variant c.76A>G p.Thr26Ala	MAGIC.535.G.2_05455	gyrA	DNA gyrase subunit A
+contig_3	29908	ins	C	CT	CT:135 C:0	CDS	-	831/840	277/279	frameshift_variant c.831dupA p.Val278fs	MAGIC.535.G.2_06530	lgt	prolipoprotein diacylglyceryl transferase
+contig_3	112983	snp	C	T	T:217 C:0	CDS	-	811/927	271/308	missense_variant c.811G>A p.Gly271Ser	MAGIC.535.G.2_06910	yejR	Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family
+contig_3	242778	snp	G	A	A:224 G:0	CDS	-	3069/4146	1023/1381	synonymous_variant c.3069C>T p.Asp1023Asp	MAGIC.535.G.2_07585	sdrD	MSCRAMM family adhesin SdrD
+contig_3	246681	snp	A	T	T:155 A:0	CDS	-	2430/2898	810/965	missense_variant c.2430T>A p.Ser810Arg	MAGIC.535.G.2_07590	sdrC	Ser-Asp rich fibrinogen-binding bone sialoprotein-binding protein
+contig_4	99397	snp	T	C	C:190 T:0	CDS	-	197/318	66/105	missense_variant c.197A>G p.Asp66Gly	MAGIC.535.G.2_08310		transposase
+contig_7	334	snp	C	T	T:16 C:0	CDS	+	306/486	102/161	synonymous_variant c.306C>T p.Asn102Asn	MAGIC.535.G.2_10370	phnP	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase
+contig_7	634	snp	A	T	T:52 A:0	CDS	+	120/471	40/156	synonymous_variant c.120A>T p.Ala40Ala	MAGIC.535.G.2_10375	ssb	Single-stranded DNA-binding protein
+contig_7	640	snp	A	G	G:53 A:0	CDS	+	126/471	42/156	synonymous_variant c.126A>G p.Gly42Gly	MAGIC.535.G.2_10375	ssb	Single-stranded DNA-binding protein
+contig_8	77517	snp	T	C	C:233 T:0	CDS	-	682/1113	228/370	missense_variant c.682A>G p.Asn228Asp	MAGIC.535.G.2_11485	comP	Signal transduction histidine kinase ComP
+contig_11	29044	ins	C	CA	CA:196 C:0								
+contig_13	38928	snp	C	T	T:20 C:0								
+contig_15	663	complex	CATAA	TATGG	TATGG:195 CATAA:0								
+contig_15	2227	snp	C	T	T:18 C:0	CDS	-	105/162	35/53	synonymous_variant c.105G>A p.Ala35Ala	MAGIC.535.G.2_13370		Phage protein
+contig_15	2233	snp	C	T	T:22 C:0	CDS	-	99/162	33/53	synonymous_variant c.99G>A p.Ser33Ser	MAGIC.535.G.2_13370		Phage protein
+contig_15	2242	snp	A	T	T:36 A:0	CDS	-	90/162	30/53	synonymous_variant c.90T>A p.Thr30Thr	MAGIC.535.G.2_13370		Phage protein
+contig_15	2266	snp	A	G	G:61 A:0	CDS	-	66/162	22/53	synonymous_variant c.66T>C p.Leu22Leu	MAGIC.535.G.2_13370		Phage protein
+contig_15	2275	snp	T	C	C:78 T:0	CDS	-	57/162	19/53	synonymous_variant c.57A>G p.Ala19Ala	MAGIC.535.G.2_13370		Phage protein
+contig_49	26	del	TA	T	T:86 TA:0								
+contig_57	71	complex	TGTTATC	CTATTGT	CTATTGT:29 TGTTATC:0								
+contig_60	122	complex	GGCCAATAAG	ATAGGTATTC	ATAGGTATTC:64 GGCCAATAAG:0								

@@ -1,0 +1,10 @@
+CHROM	POS	TYPE	REF	ALT	EVIDENCE	FTYPE	STRAND	NT_POS	AA_POS	EFFECT	LOCUS_TAG	GENE	PRODUCT
+contig_1	194930	snp	T	A	A:10 T:0	CDS	-	1953/2046	651/681	synonymous_variant c.1953A>T p.Thr651Thr	MAGIC_543_G12_00870	lip1	YSIRK domain-containing triacylglycerol lipase Lip1
+contig_2	171533	snp	C	T	T:14 C:0	CDS	-	2443/6561	815/2186	missense_variant c.2443G>A p.Ala815Thr	MAGIC_543_G12_01775	sasC	LPXTG-anchored repetitive surface protein SasC
+contig_6	122620	snp	T	C	C:35 T:2								
+contig_7	5405	snp	T	G	G:14 T:0	CDS	+	300/570	100/189	missense_variant c.300T>G p.Asp100Glu	MAGIC_543_G12_04505	nadD	nicotinate (nicotinamide) nucleotide adenylyltransferase
+contig_10	685	complex	A	GC	GC:13 A:0								
+contig_18	43022	snp	T	C	C:20 T:0	CDS	+	123/624	41/207	synonymous_variant c.123T>C p.Ile41Ile	MAGIC_543_G12_09480	acrR	DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA
+contig_19	4851	snp	T	A	A:11 T:0	CDS	+	935/984	312/327	missense_variant c.935T>A p.Ile312Lys	MAGIC_543_G12_09525	pstS	Phosphate-binding protein PstS
+contig_21	1842	snp	A	T	T:12 A:0	CDS	+	251/351	84/116	missense_variant c.251A>T p.Asp84Val	MAGIC_543_G12_09995		Uncharacterized membrane protein
+contig_31	23055	snp	G	A	A:21 G:0	CDS	+	70/1056	24/351	missense_variant c.70G>A p.Val24Ile	MAGIC_543_G12_11905	rfe	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase
